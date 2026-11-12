@@ -1,5 +1,5 @@
 quando;jogo;liga;aposta;odd_painel;justa;ev_pct;stake;moeda;odd_cravada;retorno_potencial;resultado;estado;link;bet_id;lucro
-11/11 00:41;(não casado);;;;;;10;USDC;1,91;19,1;PENDING;ACCEPTED;;ae3893f9-2f69-4c88-8309-aab26184442a;
+11/11 00:41;(não casado);;;;;;10;USDC;1,91;0;LOSS;COMPLETED;;ae3893f9-2f69-4c88-8309-aab26184442a;-10
 11/11 00:48;Portland Trail Blazers x Oklahoma City Thunder;USA · NBA;Deni Avdija · Menos de 7.5 Rebotes;1,88;1,708;10,1;20;USDC;1,88;37,6;WIN;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37193135;004a54c8-cce4-4677-80ef-5cc970fd370f;17,6
 11/11 00:48;Houston Rockets x Golden State Warriors;USA · NBA;Fred Vanvleet · Mais de 2.5 Rebotes;1,84;1,643;12;20;USDC;1,84;36,8;PENDING;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37206811;af44e2de-c7c8-4c6d-8dc9-f6cd3b3cfb7b;
 11/11 00:48;Portland Trail Blazers x Oklahoma City Thunder;USA · NBA;Kenrich Williams · Mais de 1.5 Assistências;2,3;2,085;10,3;20;USDC;2,3;0;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37193135;0774bcfa-dcae-4791-ab29-e8076a253d60;-20
@@ -99,8 +99,8 @@ quando;jogo;liga;aposta;odd_painel;justa;ev_pct;stake;moeda;odd_cravada;retorno_
 11/11 16:03;Milwaukee Bucks x LA Lakers;USA · NBA;Ziaire Williams · Menos de 1.5 Roubos de bola;1,68;1,519;10,6;2;USDC;1,71;0;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37210008;2b7f3b8c-b016-44bc-abda-aaee982e2ec5;-2
 11/11 16:03;NY Knicks x Cleveland Cavaliers;USA · NBA;Evan Mobley · Mais de 1.5 Tocos;2,85;2,564;11,2;2;USDC;2,85;0;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37208996;90619fc5-a358-430d-9ca7-18d1d2cacb6c;-2
 11/11 16:06;Milwaukee Bucks x LA Lakers;USA · NBA;Luka Doncic · Menos de 4.5 Cestas de 3;2,17;1,941;11,8;2;USDC;2,17;0;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37210008;e3e892b4-08b9-4f7d-a2c3-555c4898355c;-2
-11/11 16:07;(extrato);;Stephen Curry · Mais de 3.5 Rebotes;2,01;;;2;USDC;2,01;4,02;PENDING;ACCEPTED;;d26417f2-0a5e-44b5-b3e5-056a94050d95;
-11/11 16:07;(extrato);;Stephen Curry · Mais de 3.5 Rebotes;2,01;;;2;USDC;2,01;4,02;PENDING;ACCEPTED;;718c7a3e-0e23-4a91-bc61-795e9bfe6356;
+11/11 16:07;(extrato);;Stephen Curry · Mais de 3.5 Rebotes;2,01;;;2;USDC;2,01;0;LOSS;COMPLETED;;d26417f2-0a5e-44b5-b3e5-056a94050d95;-2
+11/11 16:07;(extrato);;Stephen Curry · Mais de 3.5 Rebotes;2,01;;;2;USDC;2,01;0;LOSS;COMPLETED;;718c7a3e-0e23-4a91-bc61-795e9bfe6356;-2
 11/11 16:07;New Orleans Pelicans x Brooklyn Nets;USA · NBA;Herbert Jones · Menos de 1.5 Assistências;2,2;1,969;11,7;2;USDC;2,2;0;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37207499;c340a89a-9430-43b1-a5b3-8d9d8e127417;-2
 11/11 16:07;Portland Trail Blazers x Oklahoma City Thunder;USA · NBA;Jared Mccain · Menos de 1.5 Assistências;2,04;1,825;11,8;2;USDC;2,04;4,08;PENDING;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37211989;f9ef1aea-51de-458d-8b6c-ba57e402330f;
 11/11 16:07;Memphis Grizzlies x Denver Nuggets;USA · NBA;Demar Derozan · Menos de 2.5;2,03;1,877;8,2;2;USDC;2,03;0;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37209763;0ad6fc8b-a2b1-4b31-96b6-0250bf46138b;-2
