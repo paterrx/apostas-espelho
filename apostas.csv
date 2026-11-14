@@ -107,7 +107,9 @@ quando;jogo;liga;aposta;odd_painel;justa;ev_pct;stake;moeda;odd_cravada;retorno_
 11/11 16:07;(não casado);;DeMar DeRozan Total Assists Under 2.5;;;;2;USDC;2,03;0;LOSS;COMPLETED;;86d8e739-412b-450a-8da4-7ebe54091f62;-2
 11/11 17:06;Portland Trail Blazers x OKC Thunder;USA · NBA;Sidy Cissoko · Mais de 7.5 Pontos;1,99;1,773;12,2;9,22;USDT;1,99;18,3478;WIN;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37211989;04b78c61-34f1-46eb-9a2c-6028eb02b02e;9,1278
 11/11 20:29;(não casado);;Josh Hart Total Steals Under 1.5;;;;2;USDT;1,89;3,78;WIN;COMPLETED;;d466fe5d-49c4-4ca5-ae72-6adbc2a89604;1,78
+11/11 20:29;Utah Jazz x Orlando Magic;USA · NBA;Josh Green · Menos de 2.5 Rebotes;2,2;1,858;18,4;2,0;USDC;2,2;4,4;WIN;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37210511;d2958578-5700-47a7-9f90-0b8b9ea4c4c9;2,5
 11/11 20:31;(não casado);;Jalen Brunson Total Steals Under 0.5;;;;2;USDT;2,5;0;LOSS;COMPLETED;;59f1071f-a131-40e2-944b-4229a52c53db;-2
+11/11 20:32;Chicago Bulls x San Antonio Spurs;USA · NBA;Caleb Wilson · Menos de 2.5 Cestas de 3;1,79;1,61;11,2;2,0;USDC;1,79;3,58;WIN;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37208652;00341217-e264-4f79-b3bb-878018d962bf;1,52
 11/11 20:36;(não casado);;;;;;6;USDC;1,69;10,14;WIN;COMPLETED;;b9e23f88-d150-4754-b66d-f0cd61db588c;4,14
 11/11 20:40;(não casado);;;;;;2;USDC;2,25;0;LOSS;COMPLETED;;999c3ab2-5658-4851-98f2-77462760f914;-2
 11/11 20:52;Utah Jazz x Orlando Magic;USA · NBA;Anthony Black · Mais de 9.5 Rebotes + assistências;1,98;1,8;10;2;USDC;1,98;3,96;WIN;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37210511;a5fd92bf-ddb2-4f81-9b9a-139a4ec268bd;1,96
@@ -148,3 +150,11 @@ quando;jogo;liga;aposta;odd_painel;justa;ev_pct;stake;moeda;odd_cravada;retorno_
 12/11 21:44;Phoenix Suns x Charlotte Hornets;USA · NBA;Collin Gillespie · Menos de 8.5;1,94;1,84;5,4;26,44;USDC;1,94;0;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37223333;3e969e4d-97f8-4405-baff-2147bbfdffd8;-26,44
 12/11 21:44;(não casado);;Miles Bridges Total Steals Under 0.5;;;;17,1;USDC;2,45;0;LOSS;COMPLETED;;5fba9109-d047-4894-9727-74ca0b898c42;-17,1
 12/11 22:35;(não casado);;Ryan Kalkbrenner Total Blocks Under 0.5;;;;24,85;USDC;2,4;0;LOSS;COMPLETED;;5a620725-9f1e-48e3-8024-1b00432f69fe;-24,85
+14/11 02:50;BC Apollon Limassol x Etha Engomi (w);Division A;BC Apollon Limassol x Etha Engomi (w) · Vencedor: BC Apollon Limassol;2,06;1,962;5,0;20,0;USDC;2,06;41,2;WIN;COMPLETED;;0e2f84b1-5e43-4408-aea5-bcce7092f193;21,2
+14/11 02:52;BC Apollon Limassol x Etha Engomi (w);Division A;Apollon x Engomi · Vencedor: BC Apollon Limassol;2,06;1,962;5,0;20,0;USDC;2,06;41,2;WIN;COMPLETED;;94047ef2-7e44-4972-aa93-a155a64cd6f4;21,2
+14/11 11:32;Trelleborg Basket x Malbas;Superettan;Trelleborg Basket x Malbas Oresund · Vencedor: Malbas Oresund;3,7;1,223;202,53475061324613;20,0;USDC;3,7;74,0;WIN;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/37232394;fd91a7d3-199a-461e-8921-bf6828e203e0;54,0
+14/11 14:18;CS Municipal Ploiesti vs. CS Phoenix Galati;Romania Division A;CS Municipal Ploiesti vs. CS Phoenix Galati · Casa;2,36;2,13;10,8;20,0;USDC;2,36;47,2;;ACCEPTED;;2499695894;
+14/11 14:43;Cordoba vs. Baloncesto Fuenlabrada;Spain LEB Adecco Oro;Cordoba vs. Baloncesto Fuenlabrada · Casa;2,06;1,86;10,75;20,0;USDC;2,06;41,2;;ACCEPTED;;2499688218;
+14/11 15:17;CS Municipal Ploiesti vs. CS Phoenix Galati;Romania Division A;CS Municipal Ploiesti vs. CS Phoenix Galati · Fora;1,99;1,89;5,29;20,0;USDC;1,99;39,8;;ACCEPTED;;2499716245;
+14/11 16:08;Loyola Chicago Women vs. Wisconsin Milwaukee Panthers Women;USA WNCAA Women;Loyola Chicago Women vs. Wisconsin Milwaukee Panthers Women · Fora;1,88;1,77;6,21;20,0;USDC;1,88;37,6;;ACCEPTED;;2499876715;
+14/11 16:15;Loyola Chicago Women vs. Wisconsin Milwaukee Panthers Women;USA WNCAA Women;Loyola Chicago Women vs. Wisconsin Milwaukee Panthers Women · Casa;2,04;1,825;11,78;20,0;USDC;2,04;40,8;;ACCEPTED;;2499920554;
