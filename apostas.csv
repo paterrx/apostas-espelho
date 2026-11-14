@@ -110,7 +110,7 @@ quando;jogo;liga;aposta;odd_painel;justa;ev_pct;stake;moeda;odd_cravada;retorno_
 11/11 20:31;(não casado);;Jalen Brunson Total Steals Under 0.5;;;;2;USDT;2,5;0;LOSS;COMPLETED;;59f1071f-a131-40e2-944b-4229a52c53db;-2
 11/11 20:36;(não casado);;;;;;6;USDC;1,69;10,14;WIN;COMPLETED;;b9e23f88-d150-4754-b66d-f0cd61db588c;4,14
 11/11 20:40;(não casado);;;;;;2;USDC;2,25;0;LOSS;COMPLETED;;999c3ab2-5658-4851-98f2-77462760f914;-2
-11/11 20:52;Utah Jazz x Orlando Magic;USA · NBA;Anthony Black · Mais de 9.5 Rebotes + assistências;1,98;1,8;10;2;USDC;1,98;3,96;WIN;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37210511;a5fd92bf-ddb2-4f81-9b9a-139a4ec268bd;1,96
+11/11 20:52;(não casado);;Anthony Black Total Assists + Rebounds Over 9.5;;;;2;USDC;1,98;3,96;WIN;COMPLETED;;a5fd92bf-ddb2-4f81-9b9a-139a4ec268bd;1,96
 11/11 20:57;Portland Trail Blazers x Oklahoma City Thunder;USA · NBA;Aday Mara · Menos de 1.5 Tocos;2,12;1,919;10,5;2;USDC;2,1;4,2;WIN;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37211989;e9fb8f2a-efef-4427-a9ae-9602ed54fb2f;2,2
 11/11 20:59;Portland Trail Blazers x Oklahoma City Thunder;USA · NBA;Scoot Henderson · Mais de 4.5 Rebotes + assistências;2,25;1,956;15;2;USDC;2,25;0;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37211989;9a50c6f0-fc38-433c-8b14-19b3c5f2b01a;-2
 11/11 21:05;(não casado);;Stephon Castle Total 3-Pointers Made Under 1.5;;;;2;USDC;2,18;4,36;WIN;COMPLETED;;f190308f-a427-4c16-810b-0989a484235f;2,36
@@ -121,7 +121,7 @@ quando;jogo;liga;aposta;odd_painel;justa;ev_pct;stake;moeda;odd_cravada;retorno_
 11/11 21:05;(não casado);;Egor Demin Total Points Under 10.5;;;;2;USDC;2,02;0;LOSS;COMPLETED;;4c3b6447-c4f2-4b93-88f6-1acc8b2703d8;-2
 11/11 21:05;(não casado);;Kyle Kuzma Total Assists Under 2.5;;;;2;USDC;2,25;4,5;WIN;COMPLETED;;a81a846b-5585-4ea9-a3a1-faa7f4ecd272;2,5
 11/11 21:31;Milwaukee Bucks x LA Lakers;USA · NBA;Collin Sexton · Mais de 1.5 Rebotes;1,93;1,621;19,1;2;USDC;1,95;0;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37210008;e7c4539e-78c9-4f51-a3d0-db1f593c5d4d;-2
-11/11 21:31;Chicago Bulls x San Antonio Spurs;USA · NBA;Luke Kornet · Menos de 5.5 Rebotes;1,89;1,495;26,4;2;USDC;1,88;3,76;WIN;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37208652;85b5f5cc-e2dd-4ac3-8fd3-f708e97171ee;1,76
+11/11 21:31;(não casado);;Luke Kornet Total Rebounds Under 5.5;;;;2;USDC;1,88;3,76;WIN;COMPLETED;;85b5f5cc-e2dd-4ac3-8fd3-f708e97171ee;1,76
 11/11 22:36;(não casado);;Donovan Clingan Total Rebounds Under 11.5;;;;8;USDC;1,93;0;LOSS;COMPLETED;;b3409065-7ad5-432c-9770-7e53dc04d4ec;-8
 11/11 22:36;(não casado);;Darryn Peterson Total Assists Over 3.5;;;;8;USDC;1,69;13,52;WIN;COMPLETED;;1d1f9dce-9609-4e82-b7f0-5ce1063835d8;5,52
 11/11 23:41;(não casado);;Deni Avdija Total Rebounds Under 7.5;;;;8;USDC;1,85;14,8;WIN;COMPLETED;;88cf4145-4cf1-47ab-8a37-8111001f0ab5;6,8
@@ -170,3 +170,4 @@ quando;jogo;liga;aposta;odd_painel;justa;ev_pct;stake;moeda;odd_cravada;retorno_
 14/11 19:34;California Golden Bears vs. Utah Tech;USA NCAA;California Golden Bears vs. Utah Tech · Casa;2,22;1,97;12,69;20,0;USDC;2,22;44,4;;ACCEPTED;;2500820140;
 14/11 20:01;Bellarmine Knights Women vs. Bradley Braves Women;USA WNCAA Women;Bellarmine Knights Women vs. Bradley Braves Women · Fora;2,0;1,83;9,29;20,0;USDC;2,0;40,0;;ACCEPTED;;2500821598;
 14/11 20:10;California Golden Bears vs. Utah Tech;USA NCAA;California Golden Bears vs. Utah Tech · Fora;2,06;1,935;6,46;20,0;USDC;2,06;41,2;;ACCEPTED;;2500895485;
+14/11 20:54;Saint Joseph's Hawks vs. Pennsylvania Quakers;USA NCAA;Saint Joseph's Hawks vs. Pennsylvania Quakers · Fora;2,08;1,935;7,49;20,0;USDC;2,08;41,6;;ACCEPTED;;2500919608;
