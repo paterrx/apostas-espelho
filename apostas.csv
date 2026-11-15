@@ -181,8 +181,6 @@ quando;jogo;liga;aposta;odd_painel;justa;ev_pct;stake;moeda;odd_cravada;retorno_
 15/11 04:02;BC Guco Lier x Basics Melsele;;BC Guco Lier x Basics Melsele · Vencedor: Basics Melsele;3,8;;;20,0;USDC;3,8;76,0;;ACCEPTED;;;;pipeline;Cloudbet
 15/11 05:06;AS Atlas Paillade x AS Cannes;Coupe de France;AS Atlas Paillade +2;1,74;1,645;5,8;39,02;USDC;1,74;67,89;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/soccer/france-coupe-de-france/37254016;c7197d6b-83ca-43e1-b458-15404080a8ed;;pipeline;Cloudbet
 15/11 05:26;Malaysia University x Bunga Raya;;Malaysia University;2,35;2,228;5,5;14,2;USDC;2,35;33,37;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/soccer/malaysia-t99e2-liga-a1/37273455;de0dbac3-d599-4db3-a26b-1635d6871a2b;;pipeline;Cloudbet
-15/11 06:07;AS Atlas Paillade x AS Cannes;;AS Atlas Paillade +2;1,74;;;39,02;USDC;1,74;;;ACCEPTED;;;;executor;Cloudbet
-15/11 06:26;Malaysia University x Bunga Raya;;Malaysia University;2,35;;;14,2;USDC;2,35;;;ACCEPTED;;;;executor;Cloudbet
 15/11 06:40;Los Angeles Clippers x Charlotte Hornets;USA · NBA;Grayson Allen · Menos de 3.5;2,05;1,758;16,6;67,23;USDC;2,05;137,82;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37271357;e00c0ada-608c-478c-b0ec-b9c33a45d7f6;;pipeline;Cloudbet
 15/11 06:40;Los Angeles Clippers x Charlotte Hornets;USA · NBA;Grayson Allen · Menos de 6.5;2,0;1,802;11,0;46,7;USDC;2,0;93,4;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37271357;9a87b66d-2be9-4c67-97c4-c3a11ef8b9a5;;pipeline;Cloudbet
 15/11 06:42;AFC Chindia Targoviste x FCSB;Amistosos Internacionais;FCSB;1,95;1,849;5,5;28,75;USDC;1,95;56,06;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/soccer/international-clubs-club-friendly-games/37267895;b76e9bb5-6303-4071-8a05-5d834abc4166;;pipeline;Cloudbet
@@ -191,26 +189,24 @@ quando;jogo;liga;aposta;odd_painel;justa;ev_pct;stake;moeda;odd_cravada;retorno_
 15/11 07:16;AS Atlas Paillade x AS Cannes;Coupe de France;AS Cannes -1.25;1,72;1,637;5,1;35,21;USDC;1,72;60,56;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/soccer/france-coupe-de-france/37254016;cca8642b-9744-40fc-bf88-1b3fda39799c;;pipeline;Cloudbet
 15/11 07:16;AS Atlas Paillade x AS Cannes;Coupe de France;AS Cannes -1;1,51;1,407;7,3;66,83;USDC;1,51;100,91;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/soccer/france-coupe-de-france/37254016;fdb88482-ad85-494c-9800-41dcf3272e8b;;pipeline;Cloudbet
 15/11 07:21;Niger Tornadoes FC x Enugu Rangers International FC;NPFL;Niger Tornadoes FC;1,66;1,554;6,8;51,68;USDC;1,66;85,79;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/soccer/nigeria-professional-league/37270850;d688a092-c99b-4c46-9dca-3e2d4d6beeeb;;pipeline;Cloudbet
-15/11 07:42;AFC Chindia Targoviste x FCSB;;FCSB;1,95;;;28,75;USDC;1,95;;;ACCEPTED;;;;executor;Cloudbet
-15/11 07:47;Etimesgut Belediyespor x Gaziemirspor;;Etimesgut Belediyespor;2,0;;;49,6;USDC;2,0;;;ACCEPTED;;;;executor;Cloudbet
-15/11 08:16;AS Atlas Paillade x AS Cannes;;AS Cannes -2;2,6;;;14,15;USDC;2,6;;;ACCEPTED;;;;executor;Cloudbet
-15/11 08:16;AS Atlas Paillade x AS Cannes;;AS Cannes -1;1,51;;;66,83;USDC;1,51;;;ACCEPTED;;;;executor;Cloudbet
-15/11 08:16;AS Atlas Paillade x AS Cannes;;AS Cannes -1.25;1,72;;;35,21;USDC;1,72;;;ACCEPTED;;;;executor;Cloudbet
-15/11 08:21;Niger Tornadoes FC x Enugu Rangers International FC;;Niger Tornadoes FC;1,66;;;51,68;USDC;1,64;;;ACCEPTED;;;;executor;Cloudbet
 15/11 08:40;Dallas Cowboys x San Francisco 49ers;NFL;George Pickens · Menos de 4.5;2,12;1,982;7,0;26,42;USDC;2,12;56,01;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/american-football/usa-nfl/37098195;15aa6b0a-1d06-42b2-bce3-68fbd9ea97ed;;pipeline;Cloudbet
 15/11 08:40;Elore x Ujpest FC II;NB III - Southeast;Ujpest FC II;1,69;1,608;5,1;36,95;USDC;1,69;62,45;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/soccer/hungary-nb-iii/37269177;8e52bc5b-5f21-49f8-a7f3-606f17fc22e0;;pipeline;Cloudbet
 15/11 09:04;Katsina United x Nasarawa United;NPFL;Katsina United;1,93;1,823;5,9;31,56;USDC;1,93;60,91;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/soccer/nigeria-professional-league/37270851;64f66aff-5e28-4ffd-bef9-a32550a02243;;pipeline;Cloudbet
 15/11 09:06;Buducnost Banovici x Tosk Tesanj;1st League - FBiH;Tosk Tesanj;3,0;2,848;5,3;9,34;USDC;3,0;28,02;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/soccer/bosnia-herzegovina-prva-liga-rep-of-srpska/37272946;72a37958-fb5b-49ed-9352-e7b984abe3b4;;pipeline;Cloudbet
+15/11 09:07;AS Atlas Paillade x AS Cannes;;AS Atlas Paillade +2;1,74;;;39,02;USDC;1,74;;;ACCEPTED;;;;executor;Cloudbet
 15/11 09:11;Washington Wizards x Houston Rockets;USA · NBA;Tre Johnson · Mais de 3.5;2,12;1,974;7,4;19,65;USDC;2,12;41,66;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37270354;535169fb-6e55-40b6-a3d6-fee47f479caa;;pipeline;Cloudbet
-15/11 09:41;Elore x Ujpest FC II;;Ujpest FC II;1,69;;;36,95;USDC;1,66;;;ACCEPTED;;;;executor;Cloudbet
+15/11 09:26;Malaysia University x Bunga Raya;;Malaysia University;2,35;;;14,2;USDC;2,35;;;ACCEPTED;;;;executor;Cloudbet
 15/11 09:46;Harem Spor Kulubu x Final Spor Genclik;TBL;Final Spor Genclik;2,7;2,444;10,5;21,57;USDC;2,7;58,24;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/turkey-tbsl/37246508;81fd6832-001b-499c-9aa8-554623b20a4c;;pipeline;Cloudbet
-15/11 10:05;Katsina United x Nasarawa United;;Katsina United;1,93;;;31,56;USDC;1,93;;;ACCEPTED;;;;executor;Cloudbet
-15/11 10:06;Buducnost Banovici x Tosk Tesanj;;Tosk Tesanj;3,0;;;9,34;USDC;3,0;;;ACCEPTED;;;;executor;Cloudbet
 15/11 10:10;Milwaukee Bucks x Atlanta Hawks;USA · NBA;Jaime Jaquez Jr. · Menos de 3.5;2,02;1,894;6,7;27,72;USDC;2,02;55,99;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37270355;a91b9fe9-0e0a-4fcf-8b14-b7f1bc888694;;pipeline;Cloudbet
 15/11 10:10;Milwaukee Bucks x Atlanta Hawks;USA · NBA;Aaron Wiggins · Menos de 3.5;2,18;1,913;14,0;50,27;USDC;2,18;109,59;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37270355;e9c48ea6-68f3-4db9-889d-32b3cdff9558;;pipeline;Cloudbet
-15/11 10:47;Harem Spor Kulubu x Final Spor Genclik;;Final Spor Genclik;2,7;;;21,57;USDC;2,84;;;ACCEPTED;;;;executor;Cloudbet
+15/11 10:42;AFC Chindia Targoviste x FCSB;;FCSB;1,95;;;28,75;USDC;1,95;;;ACCEPTED;;;;executor;Cloudbet
+15/11 10:47;Etimesgut Belediyespor x Gaziemirspor;;Etimesgut Belediyespor;2,0;;;49,6;USDC;2,0;;;ACCEPTED;;;;executor;Cloudbet
 15/11 11:07;Rostock vs. SC Rasta Vechta;Germany Basketball Bundesliga;Rostock vs. SC Rasta Vechta · Casa;2,16;1,945;11,05;40,5;USDC;2,16;87,48;;ACCEPTED;;2503462526;;pipeline;Magic
 15/11 11:11;Rostock vs. SC Rasta Vechta;Germany Basketball Bundesliga;Rostock vs. SC Rasta Vechta · Fora;2,12;1,935;9,56;36,28;USDC;2,12;76,91;;ACCEPTED;;2503523996;;pipeline;Magic
+15/11 11:16;AS Atlas Paillade x AS Cannes;;AS Cannes -2;2,6;;;14,15;USDC;2,6;;;ACCEPTED;;;;executor;Cloudbet
+15/11 11:16;AS Atlas Paillade x AS Cannes;;AS Cannes -1;1,51;;;66,83;USDC;1,51;;;ACCEPTED;;;;executor;Cloudbet
+15/11 11:16;AS Atlas Paillade x AS Cannes;;AS Cannes -1.25;1,72;;;35,21;USDC;1,72;;;ACCEPTED;;;;executor;Cloudbet
+15/11 11:21;Niger Tornadoes FC x Enugu Rangers International FC;;Niger Tornadoes FC;1,66;;;51,68;USDC;1,64;;;ACCEPTED;;;;executor;Cloudbet
 15/11 11:22;Nurnberg Ice Tigers x Iserlohn Roosters;DEL;Nurnberg Ice Tigers -2.5;2,85;2,635;8,2;15,43;USDC;2,85;43,98;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/ice-hockey/germany-del/37251978;6da600fd-f973-4671-a710-6da51efde7b7;;pipeline;Cloudbet
 15/11 11:22;Nurnberg Ice Tigers x Iserlohn Roosters;DEL;Nurnberg Ice Tigers -1.5;2,05;1,907;7,5;30,35;USDC;2,05;62,22;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/ice-hockey/germany-del/37251978;7286b5b3-af35-45a5-b771-a9b090f8eba7;;pipeline;Cloudbet
 15/11 11:33;Los Angeles Clippers x Charlotte Hornets;USA · NBA;Sion James · Menos de 3.5;2,06;1,951;5,6;22,4;USDC;2,06;46,14;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37271357;62006700-0655-47cf-a87d-cfed92922a51;;pipeline;Cloudbet
@@ -220,12 +216,10 @@ quando;jogo;liga;aposta;odd_painel;justa;ev_pct;stake;moeda;odd_cravada;retorno_
 15/11 12:13;Urena x Barquisimeto;Segunda División;Urena;2,45;2,262;8,3;20,06;USDC;2,45;49,15;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/soccer/venezuela-segunda-division/37277454;e6f4e8c1-f9b6-4b3a-ac28-2fd20b5f73d0;;pipeline;Cloudbet
 15/11 12:15;Urena x Barquisimeto;Segunda División;Urena;3,05;2,821;8,1;13,86;USDC;3,05;42,27;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/soccer/venezuela-segunda-division/37277454;15d3ee86-7c01-45f8-830a-702b22ed6dcf;;pipeline;Cloudbet
 15/11 12:20;Urena x Barquisimeto;Segunda División;Barquisimeto;2,7;2,482;8,8;18,08;USDC;2,7;48,82;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/soccer/venezuela-segunda-division/37277454;70f940bf-1b1b-4cdb-9656-664f6aab80c5;;pipeline;Cloudbet
-15/11 12:23;Nurnberg Ice Tigers x Iserlohn Roosters;;Nurnberg Ice Tigers -2.5;2,85;;;15,43;USDC;2,85;;;ACCEPTED;;;;executor;Cloudbet
-15/11 12:23;Nurnberg Ice Tigers x Iserlohn Roosters;;Nurnberg Ice Tigers -1.5;2,05;;;30,35;USDC;2,05;;;ACCEPTED;;;;executor;Cloudbet
-15/11 12:43;Avenir Beggen x Belval Belvaux;;Avenir Beggen;2,11;;;30,14;USDC;2,11;;;ACCEPTED;;;;executor;Cloudbet
-15/11 13:14;Urena x Barquisimeto;;Urena;2,45;;;20,06;USDC;2,45;;;ACCEPTED;;;;executor;Cloudbet
-15/11 13:20;Urena x Barquisimeto;;Barquisimeto;2,7;;;18,08;USDC;2,7;;;ACCEPTED;;;;executor;Cloudbet
-15/11 13:22;Urena x Barquisimeto;;Urena;3,05;;;13,86;USDC;3,0;;;ACCEPTED;;;;executor;Cloudbet
+15/11 12:41;Elore x Ujpest FC II;;Ujpest FC II;1,69;;;36,95;USDC;1,66;;;ACCEPTED;;;;executor;Cloudbet
+15/11 13:05;Katsina United x Nasarawa United;;Katsina United;1,93;;;31,56;USDC;1,93;;;ACCEPTED;;;;executor;Cloudbet
+15/11 13:06;Buducnost Banovici x Tosk Tesanj;;Tosk Tesanj;3,0;;;9,34;USDC;3,0;;;ACCEPTED;;;;executor;Cloudbet
+15/11 13:47;Harem Spor Kulubu x Final Spor Genclik;;Final Spor Genclik;2,7;;;21,57;USDC;2,84;;;ACCEPTED;;;;executor;Cloudbet
 15/11 14:08;Ironi Kiryat Ata vs. Maccabi Ashdod BC;Israel Ligat Ha'Al (Loto League);Ironi Kiryat Ata vs. Maccabi Ashdod BC · Casa;2,12;1,89;12,17;46,18;USDC;2,12;97,9;;ACCEPTED;;2504515697;;pipeline;Magic
 15/11 15:06;Washington Wizards x Houston Rockets;USA · NBA;Trae Young · Mais de 17.5;1,87;1,703;9,8;39,45;USDC;1,87;73,77;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37270354;d30b278c-cf5d-4060-b7d1-16beeca989a2;;pipeline;Cloudbet
 15/11 15:06;Phoenix Suns x LA Lakers;USA · NBA;Quentin Grimes · Mais de 17.5;1,78;1,653;7,7;34,47;USDC;1,78;61,36;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37271651;d4eaa63c-d7e9-4c87-afed-3dd190fd511b;;pipeline;Cloudbet
@@ -235,40 +229,46 @@ quando;jogo;liga;aposta;odd_painel;justa;ev_pct;stake;moeda;odd_cravada;retorno_
 15/11 15:07;Racing United FC x Tru-Juice FC;Premier League;Tru-Juice FC;2,85;2,67;6,7;12,75;USDC;2,85;36,34;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/soccer/jamaica-premier-league/37266785;7b5d97e6-18f6-4cba-b23f-4b123b734e21;;pipeline;Cloudbet
 15/11 15:21;Utah Jazz x San Antonio Spurs;USA · NBA;Darryn Peterson · Menos de 19.5;1,89;1,784;5,9;33,38;USDC;1,89;63,09;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37269708;20b652df-b93e-469b-9136-f89dc39e67e1;;pipeline;Cloudbet
 15/11 15:22;Los Angeles Clippers x Charlotte Hornets;USA · NBA;Moussa Diabate · Mais de 0.5;1,87;1,76;6,3;25,14;USDC;1,87;47,01;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37271357;6caa0054-b827-44c5-9637-757829f95cbd;;pipeline;Cloudbet
+15/11 15:23;Nurnberg Ice Tigers x Iserlohn Roosters;;Nurnberg Ice Tigers -2.5;2,85;;;15,43;USDC;2,85;;;ACCEPTED;;;;executor;Cloudbet
+15/11 15:23;Nurnberg Ice Tigers x Iserlohn Roosters;;Nurnberg Ice Tigers -1.5;2,05;;;30,35;USDC;2,05;;;ACCEPTED;;;;executor;Cloudbet
 15/11 15:24;Utah Jazz x San Antonio Spurs;USA · NBA;Stephon Castle · Menos de 5.5;2,02;1,901;6,3;26,09;USDC;2,02;52,7;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37269708;cf230baf-1e45-4311-9259-24da4cc4eb91;;pipeline;Cloudbet
 15/11 15:24;Phoenix Suns x LA Lakers;USA · NBA;Quentin Grimes · Mais de 11.5;1,96;1,847;6,1;22,3;USDC;1,96;43,71;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37271651;028c10e0-c2a8-474a-8adb-6b4d08e0c83b;;pipeline;Cloudbet
 15/11 15:33;Arizona Cardinals x Los Angeles Rams;NFL;Zonovan Knight · Mais de 1.5;2,2;2,052;7,2;17,88;USDC;2,2;39,34;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/american-football/usa-nfl/37098194;d1c6e9c5-e67d-40ae-b7ff-04214fdedf80;;pipeline;Cloudbet
+15/11 15:43;Avenir Beggen x Belval Belvaux;;Avenir Beggen;2,11;;;30,14;USDC;2,11;;;ACCEPTED;;;;executor;Cloudbet
 15/11 15:46;Arizona Cardinals x Los Angeles Rams;NFL;Tyler Allgeier · Menos de 2.5;1,72;1,595;7,8;54,42;USDC;1,72;93,6;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/american-football/usa-nfl/37098194;e5adf7a8-149a-41f2-abd1-41af8bea488d;;pipeline;Cloudbet
 15/11 16:03;Toronto Raptors x NY Knicks;USA · NBA;Scottie Barnes · Menos de 5.5;1,78;1,625;9,5;61,14;USDC;1,78;108,83;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37270237;9a965909-b044-43b9-9098-baf2fd62135f;;pipeline;Cloudbet
-15/11 16:08;Racing United FC x Tru-Juice FC;;Tru-Juice FC;2,85;;;12,75;USDC;2,85;;;ACCEPTED;;;;executor;Cloudbet
 15/11 16:12;Utah Jazz x San Antonio Spurs;USA · NBA;Dylan Harper · Mais de 16.5;1,92;1,817;5,7;21,57;USDC;1,92;41,41;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37269708;5b0b203c-a3c1-44d6-af2b-7d2e5ec3c9aa;;pipeline;Cloudbet
 15/11 16:13;Phoenix Suns x LA Lakers;USA · NBA;Walker Kessler · Mais de 12.5;1,94;1,801;7,7;28,73;USDC;1,94;55,74;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37271651;ee379e88-82b4-4218-99e9-e817a4a5bcaa;;pipeline;Cloudbet
-15/11 16:41;CLE Browns x HOU Texans;;Woody Marks · Menos de 17.5;2,01;;;70,66;USDC;1,95;;;ACCEPTED;;;;executor;Cloudbet
-15/11 16:42;ATL Falcons x Kansas City Chiefs;;Emmett Johnson · Menos de 3.5;2,04;;;48,14;USDC;2,05;;;ACCEPTED;;;;executor;Cloudbet
-15/11 16:42;TEN Titans x JAX Jaguars;;Tony Pollard · Menos de 10.5;1,87;;;51,94;USDC;1,9;;;ACCEPTED;;;;executor;Cloudbet
-15/11 16:42;Philadelphia 76ers x Indiana Pacers;;Vj Edgecombe · Mais de 9.5;2;;;22,73;USDC;1,95;;;ACCEPTED;;;;executor;Cloudbet
-15/11 16:43;Philadelphia 76ers x Indiana Pacers;;Tyrese Maxey · Menos de 2.5;2,03;;;30,57;USDC;2,04;;;ACCEPTED;;;;executor;Cloudbet
-15/11 16:43;NY Jets x BUF Bills;;Josh Allen · Menos de 7.5;1,87;;;36,61;USDC;1,87;;;ACCEPTED;;;;executor;Cloudbet
-15/11 16:44;Arizona Cardinals x Los Angeles Rams;;Zonovan Knight · Mais de 1.5;2,2;;;17,88;USDC;2,2;;;ACCEPTED;;;;executor;Cloudbet
-15/11 16:47;Arizona Cardinals x Los Angeles Rams;;Tyler Allgeier · Menos de 2.5;1,72;;;54,42;USDC;1,72;;;ACCEPTED;;;;executor;Cloudbet
-15/11 17:04;Los Angeles Clippers x Charlotte Hornets;;Grayson Allen · Menos de 6.5;2,14;;;58,44;USDC;2,14;;;ACCEPTED;;;;executor;Cloudbet
-15/11 17:04;Los Angeles Clippers x Charlotte Hornets;;Grayson Allen · Menos de 3.5;2,05;;;54,94;USDC;2,05;;;ACCEPTED;;;;executor;Cloudbet
-15/11 17:04;Phoenix Suns x LA Lakers;;Quentin Grimes · Mais de 17.5;1,78;;;53,93;USDC;1,78;;;ACCEPTED;;;;executor;Cloudbet
-15/11 17:04;Washington Wizards x Houston Rockets;;Tre Johnson · Mais de 3.5;2,2;;;24,79;USDC;2,2;;;ACCEPTED;;;;executor;Cloudbet
-15/11 17:04;Washington Wizards x Houston Rockets;;Trae Young · Mais de 17.5;1,87;;;39,45;USDC;1,87;;;ACCEPTED;;;;executor;Cloudbet
-15/11 17:05;Toronto Raptors x NY Knicks;;Scottie Barnes · Menos de 5.5;1,78;;;61,14;USDC;1,78;;;ACCEPTED;;;;executor;Cloudbet
-15/11 17:06;Dallas Cowboys x San Francisco 49ers;;George Pickens · Menos de 4.5;2,13;;;34,51;USDC;2,13;;;ACCEPTED;;;;executor;Cloudbet
-15/11 17:12;Milwaukee Bucks x Atlanta Hawks;;Jaime Jaquez Jr. · Menos de 3.5;2,2;;;51,86;USDC;2,2;;;ACCEPTED;;;;executor;Cloudbet
-15/11 17:14;Milwaukee Bucks x Atlanta Hawks;;Aaron Wiggins · Menos de 3.5;2,18;;;32,42;USDC;2,18;;;ACCEPTED;;;;executor;Cloudbet
-15/11 17:14;Los Angeles Clippers x Charlotte Hornets;;Sion James · Menos de 3.5;2,15;;;28,52;USDC;2,15;;;ACCEPTED;;;;executor;Cloudbet
-15/11 17:14;Phoenix Suns x LA Lakers;;Walker Kessler · Mais de 12.5;1,94;;;28,73;USDC;1,94;;;ACCEPTED;;;;executor;Cloudbet
-15/11 17:14;Los Angeles Clippers x Charlotte Hornets;;Darius Garland · Menos de 2.5;1,9;;;38,45;USDC;1,9;;;ACCEPTED;;;;executor;Cloudbet
-15/11 17:14;Los Angeles Clippers x Charlotte Hornets;;Moussa Diabate · Mais de 0.5;1,87;;;25,14;USDC;1,87;;;ACCEPTED;;;;executor;Cloudbet
-15/11 17:14;Utah Jazz x San Antonio Spurs;;Stephon Castle · Menos de 5.5;2,02;;;26,09;USDC;2,02;;;ACCEPTED;;;;executor;Cloudbet
-15/11 17:15;Milwaukee Bucks x Atlanta Hawks;;Nate Ament · Menos de 4.5;1,61;;;50,25;USDC;1,61;;;ACCEPTED;;;;executor;Cloudbet
-15/11 17:15;Phoenix Suns x LA Lakers;;Quentin Grimes · Mais de 11.5;1,96;;;22,3;USDC;1,96;;;ACCEPTED;;;;executor;Cloudbet
-15/11 17:15;Los Angeles Clippers x Charlotte Hornets;;Naz Reid · Menos de 10.5;1,91;;;32,28;USDC;1,91;;;ACCEPTED;;;;executor;Cloudbet
-15/11 17:15;Utah Jazz x San Antonio Spurs;;Darryn Peterson · Menos de 19.5;1,89;;;33,38;USDC;1,88;;;ACCEPTED;;;;executor;Cloudbet
-15/11 17:15;Los Angeles Clippers x Charlotte Hornets;;Brook Lopez · Menos de 19.5;1,9;;;32,17;USDC;1,9;;;ACCEPTED;;;;executor;Cloudbet
-15/11 17:15;Milwaukee Bucks x Atlanta Hawks;;Jalen Johnson · Menos de 17.5;1,97;;;29,61;USDC;1,97;;;ACCEPTED;;;;executor;Cloudbet
-15/11 17:15;Utah Jazz x San Antonio Spurs;;Dylan Harper · Mais de 16.5;1,92;;;21,57;USDC;1,92;;;ACCEPTED;;;;executor;Cloudbet
+15/11 16:14;Urena x Barquisimeto;;Urena;2,45;;;20,06;USDC;2,45;;;ACCEPTED;;;;executor;Cloudbet
+15/11 16:20;Urena x Barquisimeto;;Barquisimeto;2,7;;;18,08;USDC;2,7;;;ACCEPTED;;;;executor;Cloudbet
+15/11 16:22;Urena x Barquisimeto;;Urena;3,05;;;13,86;USDC;3,0;;;ACCEPTED;;;;executor;Cloudbet
+15/11 19:08;Racing United FC x Tru-Juice FC;;Tru-Juice FC;2,85;;;12,75;USDC;2,85;;;ACCEPTED;;;;executor;Cloudbet
+15/11 19:41;CLE Browns x HOU Texans;;Woody Marks · Menos de 17.5;2,01;;;70,66;USDC;1,95;;;ACCEPTED;;;;executor;Cloudbet
+15/11 19:42;ATL Falcons x Kansas City Chiefs;;Emmett Johnson · Menos de 3.5;2,04;;;48,14;USDC;2,05;;;ACCEPTED;;;;executor;Cloudbet
+15/11 19:42;TEN Titans x JAX Jaguars;;Tony Pollard · Menos de 10.5;1,87;;;51,94;USDC;1,9;;;ACCEPTED;;;;executor;Cloudbet
+15/11 19:42;Philadelphia 76ers x Indiana Pacers;;Vj Edgecombe · Mais de 9.5;2;;;22,73;USDC;1,95;;;ACCEPTED;;;;executor;Cloudbet
+15/11 19:43;Philadelphia 76ers x Indiana Pacers;;Tyrese Maxey · Menos de 2.5;2,03;;;30,57;USDC;2,04;;;ACCEPTED;;;;executor;Cloudbet
+15/11 19:43;NY Jets x BUF Bills;;Josh Allen · Menos de 7.5;1,87;;;36,61;USDC;1,87;;;ACCEPTED;;;;executor;Cloudbet
+15/11 19:44;Arizona Cardinals x Los Angeles Rams;;Zonovan Knight · Mais de 1.5;2,2;;;17,88;USDC;2,2;;;ACCEPTED;;;;executor;Cloudbet
+15/11 19:47;Arizona Cardinals x Los Angeles Rams;;Tyler Allgeier · Menos de 2.5;1,72;;;54,42;USDC;1,72;;;ACCEPTED;;;;executor;Cloudbet
+15/11 20:04;Los Angeles Clippers x Charlotte Hornets;;Grayson Allen · Menos de 6.5;2,14;;;58,44;USDC;2,14;;;ACCEPTED;;;;executor;Cloudbet
+15/11 20:04;Los Angeles Clippers x Charlotte Hornets;;Grayson Allen · Menos de 3.5;2,05;;;54,94;USDC;2,05;;;ACCEPTED;;;;executor;Cloudbet
+15/11 20:04;Phoenix Suns x LA Lakers;;Quentin Grimes · Mais de 17.5;1,78;;;53,93;USDC;1,78;;;ACCEPTED;;;;executor;Cloudbet
+15/11 20:04;Washington Wizards x Houston Rockets;;Tre Johnson · Mais de 3.5;2,2;;;24,79;USDC;2,2;;;ACCEPTED;;;;executor;Cloudbet
+15/11 20:04;Washington Wizards x Houston Rockets;;Trae Young · Mais de 17.5;1,87;;;39,45;USDC;1,87;;;ACCEPTED;;;;executor;Cloudbet
+15/11 20:05;Toronto Raptors x NY Knicks;;Scottie Barnes · Menos de 5.5;1,78;;;61,14;USDC;1,78;;;ACCEPTED;;;;executor;Cloudbet
+15/11 20:06;Dallas Cowboys x San Francisco 49ers;;George Pickens · Menos de 4.5;2,13;;;34,51;USDC;2,13;;;ACCEPTED;;;;executor;Cloudbet
+15/11 20:12;Milwaukee Bucks x Atlanta Hawks;;Jaime Jaquez Jr. · Menos de 3.5;2,2;;;51,86;USDC;2,2;;;ACCEPTED;;;;executor;Cloudbet
+15/11 20:14;Milwaukee Bucks x Atlanta Hawks;;Aaron Wiggins · Menos de 3.5;2,18;;;32,42;USDC;2,18;;;ACCEPTED;;;;executor;Cloudbet
+15/11 20:14;Los Angeles Clippers x Charlotte Hornets;;Sion James · Menos de 3.5;2,15;;;28,52;USDC;2,15;;;ACCEPTED;;;;executor;Cloudbet
+15/11 20:14;Phoenix Suns x LA Lakers;;Walker Kessler · Mais de 12.5;1,94;;;28,73;USDC;1,94;;;ACCEPTED;;;;executor;Cloudbet
+15/11 20:14;Los Angeles Clippers x Charlotte Hornets;;Darius Garland · Menos de 2.5;1,9;;;38,45;USDC;1,9;;;ACCEPTED;;;;executor;Cloudbet
+15/11 20:14;Los Angeles Clippers x Charlotte Hornets;;Moussa Diabate · Mais de 0.5;1,87;;;25,14;USDC;1,87;;;ACCEPTED;;;;executor;Cloudbet
+15/11 20:14;Utah Jazz x San Antonio Spurs;;Stephon Castle · Menos de 5.5;2,02;;;26,09;USDC;2,02;;;ACCEPTED;;;;executor;Cloudbet
+15/11 20:15;Milwaukee Bucks x Atlanta Hawks;;Nate Ament · Menos de 4.5;1,61;;;50,25;USDC;1,61;;;ACCEPTED;;;;executor;Cloudbet
+15/11 20:15;Phoenix Suns x LA Lakers;;Quentin Grimes · Mais de 11.5;1,96;;;22,3;USDC;1,96;;;ACCEPTED;;;;executor;Cloudbet
+15/11 20:15;Los Angeles Clippers x Charlotte Hornets;;Naz Reid · Menos de 10.5;1,91;;;32,28;USDC;1,91;;;ACCEPTED;;;;executor;Cloudbet
+15/11 20:15;Utah Jazz x San Antonio Spurs;;Darryn Peterson · Menos de 19.5;1,89;;;33,38;USDC;1,88;;;ACCEPTED;;;;executor;Cloudbet
+15/11 20:15;Los Angeles Clippers x Charlotte Hornets;;Brook Lopez · Menos de 19.5;1,9;;;32,17;USDC;1,9;;;ACCEPTED;;;;executor;Cloudbet
+15/11 20:15;Milwaukee Bucks x Atlanta Hawks;;Jalen Johnson · Menos de 17.5;1,97;;;29,61;USDC;1,97;;;ACCEPTED;;;;executor;Cloudbet
+15/11 20:15;Utah Jazz x San Antonio Spurs;;Dylan Harper · Mais de 16.5;1,92;;;21,57;USDC;1,92;;;ACCEPTED;;;;executor;Cloudbet
