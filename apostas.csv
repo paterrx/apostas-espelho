@@ -119,7 +119,7 @@ quando;jogo;liga;aposta;odd_painel;justa;ev_pct;stake;moeda;odd_cravada;retorno_
 11/11 21:05;(não casado);;Josh Green Total Rebounds Under 2.5;;;;2;USDC;2,25;4,5;WIN;COMPLETED;;d2958578-5700-47a7-9f90-0b8b9ea4c4c9;2,5
 11/11 21:05;(não casado);;Josh Green Total Rebounds Under 2.5;;;;2;USDC;2,25;4,5;WIN;COMPLETED;;23404ef4-8581-43e5-a25b-6a9edb456d44;2,5
 11/11 21:05;(não casado);;Egor Demin Total Points Under 10.5;;;;2;USDC;2,02;0;LOSS;COMPLETED;;4c3b6447-c4f2-4b93-88f6-1acc8b2703d8;-2
-11/11 21:05;Milwaukee Bucks x Atlanta Hawks;USA · NBA;Kyle Kuzma · Menos de 2.5;2,2;2,088;5,4;2;USDC;2,25;4,5;WIN;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37270355;a81a846b-5585-4ea9-a3a1-faa7f4ecd272;2,5
+11/11 21:05;(não casado);;Kyle Kuzma Total Assists Under 2.5;;;;2;USDC;2,25;4,5;WIN;COMPLETED;;a81a846b-5585-4ea9-a3a1-faa7f4ecd272;2,5
 11/11 21:31;(não casado);;Collin Sexton Total Rebounds Over 1.5;;;;2;USDC;1,95;0;LOSS;COMPLETED;;e7c4539e-78c9-4f51-a3d0-db1f593c5d4d;-2
 11/11 21:31;(não casado);;Luke Kornet Total Rebounds Under 5.5;;;;2;USDC;1,88;3,76;WIN;COMPLETED;;85b5f5cc-e2dd-4ac3-8fd3-f708e97171ee;1,76
 11/11 22:36;(não casado);;Donovan Clingan Total Rebounds Under 11.5;;;;8;USDC;1,93;0;LOSS;COMPLETED;;b3409065-7ad5-432c-9770-7e53dc04d4ec;-8
@@ -208,3 +208,4 @@ quando;jogo;liga;aposta;odd_painel;justa;ev_pct;stake;moeda;odd_cravada;retorno_
 15/11 15:33;Arizona Cardinals x Los Angeles Rams;NFL;Zonovan Knight · Mais de 1.5;2,2;2,052;7,2;17,88;USDC;2,2;39,34;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/american-football/usa-nfl/37098194;d1c6e9c5-e67d-40ae-b7ff-04214fdedf80;
 15/11 15:46;Arizona Cardinals x Los Angeles Rams;NFL;Tyler Allgeier · Menos de 2.5;1,72;1,595;7,8;54,42;USDC;1,72;93,6;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/american-football/usa-nfl/37098194;e5adf7a8-149a-41f2-abd1-41af8bea488d;
 15/11 16:03;Toronto Raptors x NY Knicks;USA · NBA;Scottie Barnes · Menos de 5.5;1,78;1,625;9,5;61,14;USDC;1,78;108,83;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37270237;9a965909-b044-43b9-9098-baf2fd62135f;
+15/11 16:13;Phoenix Suns x LA Lakers;USA · NBA;Walker Kessler · Mais de 12.5;1,94;1,801;7,7;28,73;USDC;1,94;55,74;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37271651;ee379e88-82b4-4218-99e9-e817a4a5bcaa;
