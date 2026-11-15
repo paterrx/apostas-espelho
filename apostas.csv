@@ -1,4 +1,4 @@
-quando;jogo;liga;aposta;odd_painel;justa;ev_pct;stake;moeda;odd_cravada;retorno_potencial;resultado;estado;link;bet_id;lucro;fonte;casa
+Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado;Status;Link;ID;Lucro;Fonte;Casa
 11/11 00:41;(sem par no painel);;;;;;10;USDC;1,91;19,1;LOSS;COMPLETED;;ae3893f9-2f69-4c88-8309-aab26184442a;-10;extrato;Cloudbet
 11/11 00:48;(sem par no painel);;Deni Avdija · Menos de 7.5 Rebotes;;;;20;USDC;1,88;37,6;WIN;COMPLETED;;004a54c8-cce4-4677-80ef-5cc970fd370f;17,6;extrato;Cloudbet
 11/11 00:48;(sem par no painel);;Fred VanVleet · Mais de 2.5 Rebotes;;;;20;USDC;1,84;36,8;LOSS;COMPLETED;;af44e2de-c7c8-4c6d-8dc9-f6cd3b3cfb7b;-20;extrato;Cloudbet
