@@ -138,7 +138,7 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 12/11 18:03;(sem par no painel);;Dillon Brooks · Menos de 3.5 Rebotes;;;;8;USDC;2,07;16,56;WIN;COMPLETED;;c037132d-67a2-4230-953c-d9c0bcd01db1;8,56;extrato;Cloudbet
 12/11 18:03;(sem par no painel);;Anthony Davis · Menos de 1.5 Roubos de bola;;;;8;USDC;1,57;12,56;WIN;COMPLETED;;c8206cd5-21b0-4d09-a5c8-f7c103495cfb;4,56;extrato;Cloudbet
 12/11 18:03;(sem par no painel);;Dean Wade · Menos de 5.5 Pontos;;;;8;USDC;1,98;15,84;LOSS;COMPLETED;;c6288058-80e2-4dc4-9dcf-51def47539ac;-8;extrato;Cloudbet
-12/11 18:03;Boston Celtics x Dallas Mavericks;USA · NBA;Cooper Flagg · Menos de 1.5;1,82;1,725;0,055;8;USDC;1,81;14,48;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37271447;33d44f0a-88b6-49f2-b530-d157f9198bec;-8;extrato;Cloudbet
+12/11 18:03;(sem par no painel);;Cooper Flagg · Menos de 1.5 Roubos de bola;;;;8;USDC;1,81;14,48;LOSS;COMPLETED;;33d44f0a-88b6-49f2-b530-d157f9198bec;-8;extrato;Cloudbet
 12/11 18:11;(sem par no painel);;Anthony Davis · Mais de 1.5 Assistências;;;;8;USDC;1,77;14,16;WIN;COMPLETED;;9a49d346-4db0-4810-a30c-573e4630e388;6,16;extrato;Cloudbet
 12/11 18:11;(sem par no painel);;Duncan Robinson · Menos de 1.5 Roubos de bola;;;;8;USDC;1,5;12,0;WIN;COMPLETED;;11333eba-c9a0-400a-b89e-462ff17c2e3a;4;extrato;Cloudbet
 12/11 18:15;(sem par no painel);;Collin Gillespie · Menos de 1.5 Roubos de bola;;;;8;USDC;1,54;12,32;LOSS;COMPLETED;;a268a2f5-3ba9-44b8-97b0-8b12b9bb7deb;-8;extrato;Cloudbet
@@ -263,6 +263,7 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 15/11 18:37;Washington Wizards x Houston Rockets;USA · NBA;Anthony Davis · Menos de 0.5;2,03;1,925;0,055;46,92;USDC;2,03;95,25;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37270354;e9b4f7d2-5b70-4509-b391-5d2b7416f5d6;;pipeline;Cloudbet
 15/11 18:41;Boston Celtics x Dallas Mavericks;USA · NBA;Neemias Queta · Menos de 1.5;1,7;1,607;0,058;86,17;USDC;1,69;145,63;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37271447;415fa8a1-8644-434c-ab20-044178bde77c;;pipeline;Cloudbet
 15/11 18:45;Toronto Raptors x NY Knicks;USA · NBA;Rj Barrett · Menos de 26.5;1,83;1,67;0,096;111,47;USDC;1,83;203,99;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37270237;7c7b5fd8-cec7-4736-a161-ff1772a26ef2;;pipeline;Cloudbet
+15/11 18:52;Milwaukee Bucks x Atlanta Hawks;USA · NBA;Myles Turner · Menos de 8.5;1,92;1,777;0,08;91,17;USDC;1,92;175,05;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37270355;b05e7017-6259-4685-b6c9-5910d6322f62;;pipeline;Cloudbet
 15/11 19:08;Racing United FC x Tru-Juice FC;Premier League;Tru-Juice FC;2,85;2,67;0,067;12,75;USDC;2,85;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/soccer/jamaica-premier-league/37266785;7b5d97e6-18f6-4cba-b23f-4b123b734e21;;executor;Cloudbet
 15/11 19:41;CLE Browns x HOU Texans;;Woody Marks · Menos de 17.5;2,01;;;70,66;USDC;1,95;;;ACCEPTED;;;;executor;Cloudbet
 15/11 19:42;ATL Falcons x Kansas City Chiefs;;Emmett Johnson · Menos de 3.5;2,04;;;48,14;USDC;2,05;;;ACCEPTED;;;;executor;Cloudbet
@@ -312,3 +313,4 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 15/11 22:37;Washington Wizards x Houston Rockets;USA · NBA;Anthony Davis · Menos de 0.5;2,03;1,925;0,055;46,92;USDC;1,97;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37270354;e9b4f7d2-5b70-4509-b391-5d2b7416f5d6;;executor;Cloudbet
 15/11 22:41;Boston Celtics x Dallas Mavericks;USA · NBA;Neemias Queta · Menos de 1.5;1,7;1,607;0,058;86,17;USDC;1,69;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37271447;415fa8a1-8644-434c-ab20-044178bde77c;;executor;Cloudbet
 15/11 22:45;Toronto Raptors x NY Knicks;USA · NBA;Rj Barrett · Menos de 26.5;1,83;1,67;0,096;111,47;USDC;1,92;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37270237;7c7b5fd8-cec7-4736-a161-ff1772a26ef2;;executor;Cloudbet
+15/11 22:52;Milwaukee Bucks x Atlanta Hawks;USA · NBA;Myles Turner · Menos de 8.5;1,92;1,777;0,08;91,17;USDC;1,92;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37270355;b05e7017-6259-4685-b6c9-5910d6322f62;;executor;Cloudbet
