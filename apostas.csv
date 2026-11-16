@@ -182,7 +182,6 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 14/11 15:40;(sem par no painel);;None None;;;;20;USDC;2,3;46,0;WIN;COMPLETED;;;26;extrato;Cloudbet
 14/11 15:40;(extrato);;· Mais de;2,3;0;0,0;20,0;USDC;2,3;46,0;WIN;COMPLETED;;;26,0;pipeline;Cloudbet
 14/11 15:40;Texas A&M x Tennessee;;Texas A&M;2,3;0,0;0,0;20,0;USDC;2,3;;PUSH;COMPLETED;;;;executor;Cloudbet
-14/11 16:15;Loyola Chicago Women vs. Wisconsin Milwaukee Panthers Women;USA WNCAA Women;Loyola Chicago Women vs. Wisconsin Milwaukee Panthers Women · Casa;2,04;1,825;0,1178;20,0;USDC;2,04;40,8;LOSS;COMPLETED;;2499920554;-6,1232;pipeline;Magic
 14/11 16:44;Stella Artois Leuven Bears vs. Kangoeroes Mechelen;BNXT League;Stella Artois Leuven Bears vs. Kangoeroes Mechelen · Casa;1,88;1,77;0,0621;20,0;USDC;1,88;37,6;LOSS;COMPLETED;;2500297464;-20,0;pipeline;Magic
 14/11 17:38;BC Roma Spqr vs. Scaligera Basket Verona;Italy Serie A;BC Roma Spqr vs. Scaligera Basket Verona · Casa;2,12;1,935;0,0956;20,0;USDC;2,12;42,4;LOSS;COMPLETED;;2500331458;-20,0;pipeline;Magic
 14/11 18:04;Club Malvín vs. Defensor Sporting Club;Uruguay LUB (Liga Uruguaya de Basketball);Club Malvín vs. Defensor Sporting Club · Fora;2,12;1,925;0,1013;20,0;USDC;2,12;42,4;WIN;COMPLETED;;2500688019;22,46;pipeline;Magic
