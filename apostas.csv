@@ -303,8 +303,8 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 15/11 21:10;La Unión de Formosa vs. AD Atenas;Argentina Liga Nacional de Basquetbol (LNB);La Unión de Formosa vs. AD Atenas · Casa;1,99;1,875;0,0613;2,0;USDC;1,99;3,98;WIN;COMPLETED;;2505610524;32,418;pipeline;Magic
 15/11 22:33;Milwaukee Bucks vs. Atlanta Hawks;USA NBA;Milwaukee Bucks vs. Atlanta Hawks · Casa;2,18;1,965;0,1094;39,41;USDC;2,18;85,91;PUSH;COMPLETED;;2505872005;;pipeline;Magic
 16/11 00:04;Minnesota Timberwolves x Portland Trail Blazers;USA · NBA;Lamelo Ball · Menos de 6.5 Assistencias;1,81;0;0,0;49,02;USDC;1,81;88,73;;ACCEPTED;;;;extrato;Cloudbet
-16/11 00:04;Minnesota Timberwolves x Portland Trail Blazers;USA · NBA;Jonathan Kuminga · Menos de 2.5;2,0;1,883;0,062;70,49;USDC;1,94;136,75;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284564;;;extrato;Cloudbet
-16/11 00:04;(extrato);;Jonathan Kuminga · Menos de 2.5 Assistencias;1,94;0;0,0;70,49;USDC;1,94;136,75;;ACCEPTED;;;;pipeline;Cloudbet
+16/11 00:04;Minnesota Timberwolves x Portland Trail Blazers;USA · NBA;Jonathan Kuminga · Menos de 2.5 Assistencias;1,94;0;0,0;70,49;USDC;1,94;136,75;;ACCEPTED;;;;extrato;Cloudbet
+16/11 00:04;Minnesota Timberwolves x Portland Trail Blazers;USA · NBA;Jonathan Kuminga · Menos de 2.5;1,97;1,733;0,137;70,49;USDC;1,94;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284564;52c1521d-f10b-4638-9c33-ed5bf4443519;;executor;Cloudbet
 16/11 00:04;Minnesota Timberwolves x Portland Trail Blazers;USA · NBA;Lamelo Ball · Menos de 6.5;1,84;1,7;0,082;49,02;USDC;1,81;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284564;6fae217e-0181-4c7f-acda-97936deea5b6;;executor;Cloudbet
 16/11 00:21;New Orleans Pelicans x Golden State Warriors;USA · NBA;Jeremiah Fears · Menos de 5.5 Assistencias;1,91;0;0,0;36,51;USDC;1,91;69,73;;ACCEPTED;;;;extrato;Cloudbet
 16/11 00:21;New Orleans Pelicans x Golden State Warriors;USA · NBA;Jeremiah Fears · Menos de 5.5;1,91;1,791;0,066;36,51;USDC;1,91;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284831;9ccfb387-3b97-461d-a028-6cc726034645;;executor;Cloudbet
