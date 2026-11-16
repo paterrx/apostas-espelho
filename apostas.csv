@@ -12,7 +12,7 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 11/11 00:48;(sem par no painel);;Donovan Clingan · Menos de 10.5 Rebotes;;;;15;USDC;2;30,0;LOSS;COMPLETED;;ecc8730e-b51d-4cbc-a9d9-d07cd451091e;-15;extrato;Cloudbet
 11/11 00:48;(sem par no painel);;Victor Wembanyama · Menos de 2.5 Assistências;;;;15;USDC;2,3;34,5;WIN;COMPLETED;;2695dad8-c50a-443e-91b2-9dc42042ddc9;19,5;extrato;Cloudbet
 11/11 00:48;(sem par no painel);;Brandin Podziemski · Menos de 4.5 Rebotes;;;;15;USDC;2,2;33,0;LOSS;COMPLETED;;4b916364-0042-4e84-8f3b-4252d782a4f5;-15;extrato;Cloudbet
-11/11 00:49;(sem par no painel);;Derik Queen · Menos de 2.5 Assistências;;;;10;USDC;1,88;18,8;WIN;COMPLETED;;20921314-5aa7-411b-a16e-4abf88618bfb;8,8;extrato;Cloudbet
+11/11 00:49;New Orleans Pelicans x Golden State Warriors;USA · NBA;Derik Queen · Menos de 2.5;1,96;1,867;0,05;10;USDC;1,88;18,8;WIN;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284831;20921314-5aa7-411b-a16e-4abf88618bfb;8,8;extrato;Cloudbet
 11/11 00:49;(sem par no painel);;Saddiq Bey · Menos de 1.5 Assistências;;;;15;USDC;2,5;37,5;LOSS;COMPLETED;;7f39ac07-48cf-4ba8-8d7f-b14714971318;-15;extrato;Cloudbet
 11/11 00:49;(sem par no painel);;Alex Caruso · Mais de 3.5 Rebotes;;;;15;USDC;2,2;33,0;LOSS;COMPLETED;;91faaaa6-c699-4801-a1fc-9894f7f251a9;-15;extrato;Cloudbet
 11/11 00:49;(sem par no painel);;Bennett Stirtz · Mais de 1.5 Assistências;;;;20;USDC;2,25;45,0;LOSS;COMPLETED;;dced871e-0ee4-498b-8f62-3c683fc59260;-20;extrato;Cloudbet
@@ -54,7 +54,7 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 11/11 01:33;(sem par no painel);;Josh Giddey · Mais de 6.5 Rebotes;;;;10;USDC;1,92;19,2;LOSS;COMPLETED;;c6353b31-bf81-4f44-b86b-e0d5b79bf01e;-10;extrato;Cloudbet
 11/11 01:33;(sem par no painel);;Pascal Siakam Total Assists + Rebounds Under 10.5;;;;10;USDC;1,95;19,5;LOSS;COMPLETED;;e11770b5-c97d-4434-89af-3597b6394e43;-10;extrato;Cloudbet
 11/11 01:33;(sem par no painel);;Dylan Harper Total Assists + Rebounds Under 10.5;;;;10;USDC;1,9;19,0;LOSS;COMPLETED;;aa8f1b9d-77d6-4b42-92a8-63493876f1e3;-10;extrato;Cloudbet
-11/11 01:33;(sem par no painel);;Derik Queen · Menos de 2.5 Assistências;;;;10;USDC;1,88;18,8;WIN;COMPLETED;;59ad43b2-6c11-47d4-befd-a3428686bb31;8,8;extrato;Cloudbet
+11/11 01:33;New Orleans Pelicans x Golden State Warriors;USA · NBA;Derik Queen · Menos de 2.5;1,96;1,867;0,05;10;USDC;1,88;18,8;WIN;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284831;59ad43b2-6c11-47d4-befd-a3428686bb31;8,8;extrato;Cloudbet
 11/11 01:33;(sem par no painel);;Victor Wembanyama Total Assists + Rebounds Under 14.5;;;;10;USDC;1,9;19,0;WIN;COMPLETED;;557caffd-3007-4ced-b8f3-f92044741aa7;9;extrato;Cloudbet
 11/11 01:34;(sem par no painel);;Trey Murphy III · Mais de 4.5 Rebotes;;;;15;USDC;2,02;30,3;PUSH;COMPLETED;;6567bb63-6786-4b27-905a-d576147c2c03;0;extrato;Cloudbet
 11/11 01:34;(sem par no painel);;Kevin Durant · Mais de 5.5 Rebotes;;;;15;USDC;1,98;29,7;LOSS;COMPLETED;;8d1a146e-fd79-429b-a327-fe5584f537d3;-15;extrato;Cloudbet
@@ -316,3 +316,4 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 16/11 00:04;Minnesota Timberwolves x Portland Trail Blazers;USA · NBA;Jonathan Kuminga · Menos de 2.5;1,97;1,733;0,137;70,49;USDC;1,94;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284564;52c1521d-f10b-4638-9c33-ed5bf4443519;;executor;Cloudbet
 16/11 00:04;Minnesota Timberwolves x Portland Trail Blazers;USA · NBA;Lamelo Ball · Menos de 6.5;1,84;1,7;0,082;49,02;USDC;1,81;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284564;6fae217e-0181-4c7f-acda-97936deea5b6;;executor;Cloudbet
 16/11 00:21;New Orleans Pelicans x Golden State Warriors;USA · NBA;Jeremiah Fears · Menos de 5.5;1,91;1,791;0,066;36,51;USDC;1,91;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284831;9ccfb387-3b97-461d-a028-6cc726034645;;executor;Cloudbet
+16/11 00:24;New Orleans Pelicans x Golden State Warriors;;Derik Queen · Menos de 2.5;1,96;;;25,94;USDC;1,96;;;ACCEPTED;;8da5e58d-f5d0-43d9-87f4-b1c905b20eea;;executor;Cloudbet
