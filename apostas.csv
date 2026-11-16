@@ -182,7 +182,6 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 14/11 15:40;(sem par no painel);;None None;;;;20;USDC;2,3;46,0;WIN;COMPLETED;;;26;extrato;Cloudbet
 14/11 15:40;(extrato);;· Mais de;2,3;0;0,0;20,0;USDC;2,3;46,0;WIN;COMPLETED;;;26,0;pipeline;Cloudbet
 14/11 15:40;Texas A&M x Tennessee;;Texas A&M;2,3;0,0;0,0;20,0;USDC;2,3;;PUSH;COMPLETED;;;;executor;Cloudbet
-14/11 18:12;Old Dominion Monarchs vs. Longwood Lancers;USA NCAA;Old Dominion Monarchs vs. Longwood Lancers · Fora;2,22;1,975;0,1241;20,0;USDC;2,22;44,4;LOSS;COMPLETED;;2500676933;-20,0;pipeline;Magic
 14/11 18:24;Navy Midshipmen vs. Hampton University Pirates;USA NCAA;Navy Midshipmen vs. Hampton University Pirates · Fora;2,16;1,925;0,1221;20,0;USDC;2,16;43,2;LOSS;COMPLETED;;2500714896;-18,87;pipeline;Magic
 14/11 18:33;Northern Kentucky Norse vs. Central Michigan Chipewas;USA NCAA;Northern Kentucky Norse vs. Central Michigan Chipewas · Casa;2,08;1,9;0,0947;20,0;USDC;2,08;41,6;LOSS;COMPLETED;;2500613569;-20,0;pipeline;Magic
 14/11 18:43;Old Dominion Monarchs vs. Longwood Lancers;USA NCAA;Old Dominion Monarchs vs. Longwood Lancers · Casa;2,12;1,92;0,1042;20,0;USDC;2,12;42,4;WIN;COMPLETED;;2500609661;24,54;pipeline;Magic
