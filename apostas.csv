@@ -101,7 +101,7 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 11/11 16:06;(sem par no painel);;Luka Doncic Total 3-Pointers Made Under 4.5;;;;2;USDC;2,17;4,34;LOSS;COMPLETED;;e3e892b4-08b9-4f7d-a2c3-555c4898355c;-2;extrato;Cloudbet
 11/11 16:07;(sem par no painel);;Stephen Curry · Mais de 3.5 Rebotes;;;;2;USDC;2,01;4,02;LOSS;COMPLETED;;d26417f2-0a5e-44b5-b3e5-056a94050d95;-2;extrato;Cloudbet
 11/11 16:07;(sem par no painel);;Stephen Curry · Mais de 3.5 Rebotes;;;;2;USDC;2,01;4,02;LOSS;COMPLETED;;718c7a3e-0e23-4a91-bc61-795e9bfe6356;-2;extrato;Cloudbet
-11/11 16:07;New Orleans Pelicans x Golden State Warriors;USA · NBA;Herbert Jones · Menos de 1.5;1,61;1,516;0,062;2;USDC;2,2;4,4;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284831;c340a89a-9430-43b1-a5b3-8d9d8e127417;-2;extrato;Cloudbet
+11/11 16:07;(sem par no painel);;Herbert Jones · Menos de 1.5 Assistências;;;;2;USDC;2,2;4,4;LOSS;COMPLETED;;c340a89a-9430-43b1-a5b3-8d9d8e127417;-2;extrato;Cloudbet
 11/11 16:07;(sem par no painel);;Jared McCain · Menos de 1.5 Assistências;;;;2;USDC;2,04;4,08;LOSS;COMPLETED;;f9ef1aea-51de-458d-8b6c-ba57e402330f;-2;extrato;Cloudbet
 11/11 16:07;(sem par no painel);;DeMar DeRozan · Menos de 2.5 Assistências;;;;2;USDC;2,03;4,06;LOSS;COMPLETED;;0ad6fc8b-a2b1-4b31-96b6-0250bf46138b;-2;extrato;Cloudbet
 11/11 16:07;(sem par no painel);;DeMar DeRozan · Menos de 2.5 Assistências;;;;2;USDC;2,03;4,06;LOSS;COMPLETED;;86d8e739-412b-450a-8da4-7ebe54091f62;-2;extrato;Cloudbet
@@ -324,3 +324,4 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 16/11 01:23;New Orleans Pelicans x Golden State Warriors;USA · NBA;Saddiq Bey · Menos de 2.5;2,08;1,883;0,105;41,17;USDC;2,08;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284831;b984aa38-de6c-4ee4-9c78-6ca5d262dbd1;;executor;Cloudbet
 16/11 01:23;New Orleans Pelicans x Golden State Warriors;USA · NBA;Saddiq Bey · Menos de 5.5;2,01;1,836;0,095;39,88;USDC;2,01;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284831;3fca5196-5cba-4145-b70c-6e697fe34d0e;;executor;Cloudbet
 16/11 01:23;New Orleans Pelicans x Golden State Warriors;USA · NBA;Yves Missi · Menos de 1.5;1,67;1,556;0,073;54,68;USDC;1,67;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284831;40ff3138-1475-4bc4-ae67-2ad6494003d6;;executor;Cloudbet
+16/11 01:23;Minnesota Timberwolves x Portland Trail Blazers;USA · NBA;Deni Avdija · Menos de 6.5;1,81;1,704;0,062;38,4;USDC;1,81;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284564;dc9939bd-71d6-45b5-8072-cf391cc68302;;executor;Cloudbet
