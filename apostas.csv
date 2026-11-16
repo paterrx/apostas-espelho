@@ -182,7 +182,6 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 14/11 15:40;(sem par no painel);;None None;;;;20;USDC;2,3;46,0;WIN;COMPLETED;;;26;extrato;Cloudbet
 14/11 15:40;(extrato);;· Mais de;2,3;0;0,0;20,0;USDC;2,3;46,0;WIN;COMPLETED;;;26,0;pipeline;Cloudbet
 14/11 15:40;Texas A&M x Tennessee;;Texas A&M;2,3;0,0;0,0;20,0;USDC;2,3;;PUSH;COMPLETED;;;;executor;Cloudbet
-14/11 18:24;Navy Midshipmen vs. Hampton University Pirates;USA NCAA;Navy Midshipmen vs. Hampton University Pirates · Fora;2,16;1,925;0,1221;20,0;USDC;2,16;43,2;LOSS;COMPLETED;;2500714896;-18,87;pipeline;Magic
 14/11 18:33;Northern Kentucky Norse vs. Central Michigan Chipewas;USA NCAA;Northern Kentucky Norse vs. Central Michigan Chipewas · Casa;2,08;1,9;0,0947;20,0;USDC;2,08;41,6;LOSS;COMPLETED;;2500613569;-20,0;pipeline;Magic
 14/11 18:43;Old Dominion Monarchs vs. Longwood Lancers;USA NCAA;Old Dominion Monarchs vs. Longwood Lancers · Casa;2,12;1,92;0,1042;20,0;USDC;2,12;42,4;WIN;COMPLETED;;2500609661;24,54;pipeline;Magic
 14/11 19:04;Loyola Maryland Greyhounds vs. Morgan State University Bears;USA NCAA;Loyola Maryland Greyhounds vs. Morgan State University Bears · Fora;1,86;1,735;0,072;20,0;USDC;1,86;37,2;WIN;COMPLETED;;2500696807;19,02;pipeline;Magic
@@ -328,7 +327,8 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 16/11 01:59;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Julius Randle · Mais de 4.5 Assistencias;1,92;0;0,0;28,08;USDC;1,92;53,91;;ACCEPTED;;;;extrato;Cloudbet
 16/11 01:59;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Julius Randle · Mais de 4.5;1,92;1,788;0,074;28,08;USDC;1,92;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284811;d81153af-4228-4874-8d03-f7d35fbd1823;;executor;Cloudbet
 16/11 01:59;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Julius Randle · Menos de 1.5;1,59;1,51;0,053;44,9;USDC;1,61;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284811;3b036cbd-7010-4d20-b348-3a2e7f801cbe;;executor;Cloudbet
-16/11 02:05;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Tyrese Maxey · Menos de 3.5 Rebotes;1,97;0;0,0;26,41;USDC;1,97;52,03;;ACCEPTED;;;;extrato;Cloudbet
+16/11 02:05;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Tyrese Maxey · Menos de 3.5;2,16;1,967;0,098;26,41;USDC;1,97;52,03;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284811;;;extrato;Cloudbet
+16/11 02:05;(extrato);;Tyrese Maxey · Menos de 3.5 Rebotes;1,97;0;0,0;26,41;USDC;1,97;52,03;;ACCEPTED;;;;pipeline;Cloudbet
 16/11 02:05;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Tyrese Maxey · Menos de 3.5;1,97;1,874;0,051;26,41;USDC;1,99;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284811;cc2fd022-9e85-4673-924b-dd5f8eea2f5c;;executor;Cloudbet
 16/11 02:07;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Egor Demin · Menos de 2.5 Assistencias;1,85;0;0,0;30,78;USDC;1,85;56,94;;ACCEPTED;;;;extrato;Cloudbet
 16/11 02:07;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Danny Wolf · Menos de 1.5 Cestas de 3;1,61;0;0,0;85,32;USDC;1,61;137,37;;ACCEPTED;;;;extrato;Cloudbet
