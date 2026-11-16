@@ -341,8 +341,8 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 16/11 02:05;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Tyrese Maxey · Menos de 3.5 Rebotes;1,97;0;0,0;26,41;USDC;1,97;52,03;;ACCEPTED;;;;extrato;Cloudbet
 16/11 02:05;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Tyrese Maxey · Menos de 3.5;1,97;1,874;0,051;26,41;USDC;1,99;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284811;cc2fd022-9e85-4673-924b-dd5f8eea2f5c;;executor;Cloudbet
 16/11 02:07;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Egor Demin · Menos de 2.5 Assistencias;1,85;0;0,0;30,78;USDC;1,85;56,94;;ACCEPTED;;;;extrato;Cloudbet
-16/11 02:07;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Danny Wolf · Menos de 1.5 Cestas de 3;1,61;0;0,0;85,32;USDC;1,61;137,37;;ACCEPTED;;;;extrato;Cloudbet
-16/11 02:07;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Danny Wolf · Menos de 1.5;1,62;1,465;0,106;85,32;USDC;1,61;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284811;cf60d6ee-c834-43ce-9156-417f6addaa4d;;executor;Cloudbet
+16/11 02:07;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Danny Wolf · Menos de 1.5;1,65;1,539;0,072;85,32;USDC;1,61;137,37;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284811;;;extrato;Cloudbet
+16/11 02:07;(extrato);;Danny Wolf · Menos de 1.5 Cestas de 3;1,61;0;0,0;85,32;USDC;1,61;137,37;;ACCEPTED;;;;pipeline;Cloudbet
 16/11 02:07;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Egor Demin · Menos de 2.5;1,85;1,758;0,052;30,78;USDC;1,86;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284811;07bf9418-ad03-4295-8081-5eb355c5d6be;;executor;Cloudbet
 16/11 02:16;Minnesota Timberwolves x Portland Trail Blazers;USA · NBA;Terrence Shannon Jr. · Mais de 1.5;2,75;2,556;0,076;10,63;USDC;2,8;29,76;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284564;;;extrato;Cloudbet
 16/11 02:16;New Orleans Pelicans x Golden State Warriors;USA · NBA;Saddiq Bey · Menos de 2.5 Assistencias;2,08;0;0,0;35,19;USDC;1,77;62,29;;ACCEPTED;;;;extrato;Cloudbet
@@ -395,3 +395,4 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 16/11 05:18;Minnesota Timberwolves x Portland Trail Blazers;USA · NBA;Donovan Clingan · Menos de 24.5;1,92;1,767;0,087;47,06;USDC;1,92;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284564;505bc0aa-4982-4c54-924c-4643411e3d65;;executor;Cloudbet
 16/11 05:18;Boston Celtics x Orlando Magic;USA · NBA;Jayson Tatum · Menos de 0.5;2,8;2,634;0,063;12,26;USDC;2,8;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284984;f35c220f-095b-4193-aed9-0f18f719846e;;executor;Cloudbet
 16/11 05:26;Denver Nuggets x Phoenix Suns;USA · NBA;Jordan Goodwin · Mais de 1.5;1,93;1,826;0,057;21,43;USDC;1,93;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37285871;45c10c3c-4b8f-46b6-b83d-27ceb314d454;;executor;Cloudbet
+16/11 05:28;Cleveland Cavaliers x Chicago Bulls;USA · NBA;Josh Giddey · Mais de 8.5;1,99;1,826;0,062;12,77;USDC;1,94;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37283995;b5c06bc2-e73e-4452-8504-742f109e0f73;;executor;Cloudbet
