@@ -182,7 +182,6 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 14/11 15:40;(sem par no painel);;None None;;;;20;USDC;2,3;46,0;WIN;COMPLETED;;;26;extrato;Cloudbet
 14/11 15:40;(extrato);;· Mais de;2,3;0;0,0;20,0;USDC;2,3;46,0;WIN;COMPLETED;;;26,0;pipeline;Cloudbet
 14/11 15:40;Texas A&M x Tennessee;;Texas A&M;2,3;0,0;0,0;20,0;USDC;2,3;;PUSH;COMPLETED;;;;executor;Cloudbet
-14/11 20:01;Bellarmine Knights Women vs. Bradley Braves Women;USA WNCAA Women;Bellarmine Knights Women vs. Bradley Braves Women · Fora;2,0;1,83;0,0929;20,0;USDC;2,0;40,0;WIN;COMPLETED;;2500821598;13,6365;pipeline;Magic
 14/11 20:10;California Golden Bears vs. Utah Tech;USA NCAA;California Golden Bears vs. Utah Tech · Fora;2,06;1,935;0,0646;20,0;USDC;2,06;41,2;LOSS;COMPLETED;;2500895485;-20,0;pipeline;Magic
 14/11 20:54;Saint Joseph's Hawks vs. Pennsylvania Quakers;USA NCAA;Saint Joseph's Hawks vs. Pennsylvania Quakers · Fora;2,08;1,935;0,0749;20,0;USDC;2,08;41,6;LOSS;COMPLETED;;2500919608;-20,0;pipeline;Magic
 14/11 21:03;Saint Joseph's Hawks vs. Pennsylvania Quakers;USA NCAA;Saint Joseph's Hawks vs. Pennsylvania Quakers · Casa;2,12;1,92;0,1042;20,0;USDC;2,12;42,4;PUSH;COMPLETED;;2500940559;;pipeline;Magic
