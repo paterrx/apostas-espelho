@@ -325,8 +325,7 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 16/11 01:59;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Julius Randle · Mais de 4.5 Assistencias;1,92;0;0,0;28,08;USDC;1,92;53,91;;ACCEPTED;;;;extrato;Cloudbet
 16/11 01:59;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Julius Randle · Mais de 4.5;1,92;1,788;0,074;28,08;USDC;1,92;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284811;d81153af-4228-4874-8d03-f7d35fbd1823;;executor;Cloudbet
 16/11 01:59;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Julius Randle · Menos de 1.5;1,59;1,51;0,053;44,9;USDC;1,61;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284811;3b036cbd-7010-4d20-b348-3a2e7f801cbe;;executor;Cloudbet
-16/11 02:05;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Tyrese Maxey · Menos de 3.5;2,16;1,967;0,098;26,41;USDC;1,97;52,03;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284811;;;extrato;Cloudbet
-16/11 02:05;(extrato);;Tyrese Maxey · Menos de 3.5 Rebotes;1,97;0;0,0;26,41;USDC;1,97;52,03;;ACCEPTED;;;;pipeline;Cloudbet
+16/11 02:05;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Tyrese Maxey · Menos de 3.5 Rebotes;1,97;0;0,0;26,41;USDC;1,97;52,03;;ACCEPTED;;;;extrato;Cloudbet
 16/11 02:05;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Tyrese Maxey · Menos de 3.5;1,97;1,874;0,051;26,41;USDC;1,99;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284811;cc2fd022-9e85-4673-924b-dd5f8eea2f5c;;executor;Cloudbet
 16/11 02:07;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Egor Demin · Menos de 2.5 Assistencias;1,85;0;0,0;30,78;USDC;1,85;56,94;;ACCEPTED;;;;extrato;Cloudbet
 16/11 02:07;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Danny Wolf · Menos de 1.5 Cestas de 3;1,61;0;0,0;85,32;USDC;1,61;137,37;;ACCEPTED;;;;extrato;Cloudbet
@@ -411,3 +410,4 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 16/11 11:19;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Noah Clowney · Mais de 3.5;1,85;1,711;0,081;24,36;USDC;1,84;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284811;b5f1a21c-4a1b-437d-bf4c-2eb868996db3;;executor;Cloudbet
 16/11 16:57;(sem jogo);;;;;;;USDC;;;;ACCEPTED;;sport:693591970;;pipeline;
 16/11 17:48;(sem jogo);;;;;;;USDC;;;;ACCEPTED;;sport:693613780;;pipeline;
+16/11 18:50;(sem jogo);;;;;;;USDC;;;;ACCEPTED;;;;pipeline;
