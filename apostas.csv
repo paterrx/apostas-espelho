@@ -182,7 +182,6 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 14/11 15:40;(sem par no painel);;None None;;;;20;USDC;2,3;46,0;WIN;COMPLETED;;;26;extrato;Cloudbet
 14/11 15:40;(extrato);;· Mais de;2,3;0;0,0;20,0;USDC;2,3;46,0;WIN;COMPLETED;;;26,0;pipeline;Cloudbet
 14/11 15:40;Texas A&M x Tennessee;;Texas A&M;2,3;0,0;0,0;20,0;USDC;2,3;;PUSH;COMPLETED;;;;executor;Cloudbet
-14/11 19:04;Loyola Maryland Greyhounds vs. Morgan State University Bears;USA NCAA;Loyola Maryland Greyhounds vs. Morgan State University Bears · Fora;1,86;1,735;0,072;20,0;USDC;1,86;37,2;WIN;COMPLETED;;2500696807;19,02;pipeline;Magic
 14/11 19:18;Club Malvín vs. Defensor Sporting Club;Uruguay LUB (Liga Uruguaya de Basketball);Club Malvín vs. Defensor Sporting Club · Casa;1,97;1,865;0,0563;20,0;USDC;1,97;39,4;LOSS;COMPLETED;;2500899462;-16,48;pipeline;Magic
 14/11 19:22;Loyola Maryland Greyhounds vs. Morgan State University Bears;USA NCAA;Loyola Maryland Greyhounds vs. Morgan State University Bears · Casa;1,97;1,79;0,1006;20,0;USDC;1,97;39,4;LOSS;COMPLETED;;2500835956;-20,0;pipeline;Magic
 14/11 19:34;California Golden Bears vs. Utah Tech;USA NCAA;California Golden Bears vs. Utah Tech · Casa;2,22;1,97;0,1269;20,0;USDC;2,22;44,4;WIN;COMPLETED;;2500820140;23,56;pipeline;Magic
@@ -331,7 +330,7 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 16/11 02:07;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Danny Wolf · Menos de 1.5 Cestas de 3;1,61;0;0,0;85,32;USDC;1,61;137,37;;ACCEPTED;;;;extrato;Cloudbet
 16/11 02:07;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Danny Wolf · Menos de 1.5;1,62;1,465;0,106;85,32;USDC;1,61;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284811;cf60d6ee-c834-43ce-9156-417f6addaa4d;;executor;Cloudbet
 16/11 02:07;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Egor Demin · Menos de 2.5;1,85;1,758;0,052;30,78;USDC;1,86;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284811;07bf9418-ad03-4295-8081-5eb355c5d6be;;executor;Cloudbet
-16/11 02:16;Minnesota Timberwolves x Portland Trail Blazers;USA · NBA;Terrence Shannon Jr. · Mais de 1.5;2,75;2,617;0,051;10,63;USDC;2,8;29,76;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284564;;;extrato;Cloudbet
+16/11 02:16;Minnesota Timberwolves x Portland Trail Blazers;USA · NBA;Terrence Shannon Jr. · Mais de 1.5;2,75;2,556;0,076;10,63;USDC;2,8;29,76;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284564;;;extrato;Cloudbet
 16/11 02:16;New Orleans Pelicans x Golden State Warriors;USA · NBA;Saddiq Bey · Menos de 2.5 Assistencias;2,08;0;0,0;35,19;USDC;1,77;62,29;;ACCEPTED;;;;extrato;Cloudbet
 16/11 02:16;(extrato);;Terrence Shannon Jr Dot · Mais de 1.5 Cestas de 3;2,8;0;0,0;10,63;USDC;2,8;29,76;;ACCEPTED;;;;pipeline;Cloudbet
 16/11 02:16;(extrato);;Saddiq Bey · Menos de 2.5 Cestas de 3;1,77;0;0,0;35,19;USDC;1,77;62,29;;ACCEPTED;;;;pipeline;Cloudbet
