@@ -177,8 +177,8 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 14/11 02:52;BC Apollon Limassol x Etha Engomi (w);Division A;Apollon x Engomi · Vencedor: BC Apollon Limassol;2,06;1,962;0,05;20,0;USDC;2,06;;;ACCEPTED;;;;executor;Cloudbet
 14/11 02:54;(sem par no painel);;None None;;;;20;USDC;2,06;41,2;WIN;COMPLETED;;0e2f84b1-5e43-4408-aea5-bcce7092f193;21,2;extrato;Cloudbet
 14/11 02:54;BC Apollon Limassol x Etha Engomi (w);Division A;BC Apollon Limassol x Etha Engomi (w) · Vencedor: BC Apollon Limassol;2,06;1,962;0,05;20,0;USDC;2,06;;;ACCEPTED;;;;executor;Cloudbet
-14/11 11:33;Trelleborg Basket x Malbas;Superettan;None None;;;;20;USDC;3,7;74,0;WIN;COMPLETED;;fd91a7d3-199a-461e-8921-bf6828e203e0;54;extrato;Cloudbet
-14/11 11:33;Trelleborg Basket x Malbas;Superettan;Trelleborg Basket x Malbas Oresund · Vencedor: Malbas Oresund;3,7;1,223;2,0253;20,0;USDC;3,7;;WIN;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/37232394;;54,0;executor;Cloudbet
+14/11 11:33;(sem par no painel);;None None;;;;20;USDC;3,7;74,0;WIN;COMPLETED;;fd91a7d3-199a-461e-8921-bf6828e203e0;54;extrato;Cloudbet
+14/11 11:33;Trelleborg Basket x Malbas;Superettan;Trelleborg Basket x Malbas Oresund · Vencedor: Malbas Oresund;3,7;1,223;2,0253;20,0;USDC;3,7;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/37232394;;;executor;Cloudbet
 14/11 14:18;CS Municipal Ploiesti vs. CS Phoenix Galati;Romania Division A;CS Municipal Ploiesti vs. CS Phoenix Galati · Casa;2,36;2,13;0,108;20,0;USDC;2,36;47,2;WIN;COMPLETED;;2499695894;24,9013;pipeline;Magic
 14/11 14:43;Cordoba vs. Baloncesto Fuenlabrada;Spain LEB Adecco Oro;Cordoba vs. Baloncesto Fuenlabrada · Casa;2,06;1,86;0,1075;20,0;USDC;2,06;41,2;PUSH;COMPLETED;;2499688218;;pipeline;Magic
 14/11 15:17;CS Municipal Ploiesti vs. CS Phoenix Galati;Romania Division A;CS Municipal Ploiesti vs. CS Phoenix Galati · Fora;1,99;1,89;0,0529;20,0;USDC;1,99;39,8;LOSS;COMPLETED;;2499716245;-20,0;pipeline;Magic
