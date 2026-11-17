@@ -182,8 +182,8 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 14/11 15:40;(sem par no painel);;None None;;;;20;USDC;2,3;46,0;WIN;COMPLETED;;;26;extrato;Cloudbet
 14/11 15:40;(extrato);;· Mais de;2,3;0;0,0;20,0;USDC;2,3;46,0;WIN;COMPLETED;;;26,0;pipeline;Cloudbet
 14/11 15:40;Texas A&M x Tennessee;;Texas A&M;2,3;0,0;0,0;20,0;USDC;2,3;;PUSH;COMPLETED;;;;executor;Cloudbet
-15/11 00:02;BC Guco Lier x Basics Melsele;Top Division 1;None None;;;;20;USDC;3,8;76,0;LOSS;COMPLETED;;d520b2b3-9205-4679-8451-cf1879e41312;-20;extrato;Cloudbet
-15/11 00:02;BC Guco Lier x Basics Melsele;Top Division 1;BC Guco Lier x Basics Melsele · Vencedor: Basics Melsele;3,8;1,207;2,1483;20,0;USDC;3,8;;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/37270178;;-20,0;executor;Cloudbet
+15/11 00:02;(sem par no painel);;None None;;;;20;USDC;3,8;76,0;LOSS;COMPLETED;;d520b2b3-9205-4679-8451-cf1879e41312;-20;extrato;Cloudbet
+15/11 00:02;BC Guco Lier x Basics Melsele;Top Division 1;BC Guco Lier x Basics Melsele · Vencedor: Basics Melsele;3,8;1,207;2,1483;20,0;USDC;3,8;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/37270178;;;executor;Cloudbet
 15/11 05:07;AS Atlas Paillade x AS Cannes;Coupe de France;AS Atlas Paillade +2;1,74;1,645;0,058;39,02;USDC;1,74;67,89;PUSH;COMPLETED;https://www.cloudbet.com/pt-br/sports/soccer/france-coupe-de-france/37254016;c7197d6b-83ca-43e1-b458-15404080a8ed;0;extrato;Cloudbet
 15/11 05:26;Malaysia University x Bunga Raya;;Malaysia University;2,35;2,228;0,055;14,2;USDC;2,35;33,37;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/soccer/malaysia-t99e2-liga-a1/37273455;de0dbac3-d599-4db3-a26b-1635d6871a2b;-14,2;extrato;Cloudbet
 15/11 06:42;AFC Chindia Targoviste x FCSB;Amistosos Internacionais;FCSB;1,95;1,849;0,055;28,75;USDC;1,95;56,06;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/soccer/international-clubs-club-friendly-games/37267895;b76e9bb5-6303-4071-8a05-5d834abc4166;-28,75;extrato;Cloudbet
