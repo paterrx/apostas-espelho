@@ -251,7 +251,7 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 15/11 18:20;Utah Jazz x San Antonio Spurs;USA · NBA;Julian Champagnie · Menos de 5.5;1,62;1,482;0,093;150,99;USDC;1,62;244,6;WIN;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37269708;c3cbc88f-454a-4485-a51d-c58d75d24c82;93,6138;extrato;Cloudbet
 15/11 18:21;Arizona Cardinals x Los Angeles Rams;NFL;Zonovan Knight · Mais de 8.5;1,94;1,793;0,082;61,38;USDC;1,94;119,08;PUSH;COMPLETED;;;;executor;Cloudbet
 15/11 18:22;Phoenix Suns x LA Lakers;;Collin Gillespie · Menos de 9.5;1,88;;;92,63;USDC;1,89;175,07;;ACCEPTED;;;;executor;Cloudbet
-15/11 18:23;Toronto Raptors x NY Knicks;USA · NBA;Scottie Barnes · Menos de 6.5;2,08;1,91;0,089;77,54;USDC;2,04;158,18;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37270237;d3aefeeb-d6fc-4035-92b3-94892683fc59;-77,54;extrato;Cloudbet
+15/11 18:23;Toronto Raptors x NY Knicks;USA · NBA;Scottie Barnes · Menos de 6.5;2,08;1,91;0,089;77,54;USDC;2,04;158,18;LOSS;COMPLETED;;d3aefeeb-d6fc-4035-92b3-94892683fc59;-77,54;extrato;Cloudbet
 15/11 18:23;Phoenix Suns x LA Lakers;USA · NBA;Matisse Thybulle · Mais de 6.5;2,06;1,917;0,075;42,1;USDC;2,03;85,46;;ACCEPTED;;;;executor;Cloudbet
 15/11 18:25;Phoenix Suns x LA Lakers;USA · NBA;Matisse Thybulle · Mais de 2.5;2,4;2,269;0,058;22,36;USDC;2,4;53,66;PUSH;COMPLETED;;;;executor;Cloudbet
 15/11 18:26;Dallas Cowboys x San Francisco 49ers;NFL;Kaelon Black · Menos de 35.5;1,86;1,761;0,056;72,35;USDC;1,86;134,57;PUSH;COMPLETED;;;;executor;Cloudbet
@@ -554,7 +554,7 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 17/11 16:32;Hopsi Polzela vs. Ilirija;Slovenia Premier A (Telemach League);Hopsi Polzela vs. Ilirija · Casa;2,02;1,84;0,0978;60,0;USDC;2,02;121,2;;ACCEPTED;;2511421889;;pipeline;Magic
 17/11 16:39;FC Barcelona Bàsquet vs. Paris Basket;Europe Euroleague;FC Barcelona Bàsquet vs. Paris Basket · Casa;2,18;1,95;0,1179;60,0;USDC;2,18;130,8;;ACCEPTED;;2511551821;;pipeline;Magic
 17/11 16:46;Olimpia Milano vs. KK Crvena Zvezda;Europe Euroleague;Olimpia Milano vs. KK Crvena Zvezda · Casa;2,1;1,925;0,0909;26,1;USDC;2,1;54,81;WIN;COMPLETED;;2511613933;29,232;pipeline;Magic
-17/11 16:49;Saski Baskonia vs. Hapoel Tel Aviv BC;Europe Euroleague;Saski Baskonia vs. Hapoel Tel Aviv BC · Fora;1,99;1,885;0,0557;60,0;USDC;1,99;119,4;;ACCEPTED;;2511524052;;pipeline;Magic
+17/11 16:49;Saski Baskonia vs. Hapoel Tel Aviv BC;Europe Euroleague;Saski Baskonia vs. Hapoel Tel Aviv BC · Fora;1,99;1,885;0,0557;60,0;USDC;1,99;119,4;WIN;COMPLETED;;2511524052;13,0504;pipeline;Magic
 17/11 16:50;Minnesota Timberwolves x Portland Trail Blazers;USA · NBA;Rudy Gobert · Menos de 0.5;2,19;2,083;0,051;3,49;USDC;2,2;7,68;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37300712;85d006d0-d298-41db-bce4-3f5bf0c55ade;;executor;Cloudbet
 17/11 16:56;Club Bigua de Villa Biarritz x Aguada;Liga Uruguaya;Aguada +5;1,741;1,646;0,058;21,0;USDC;1,741;36,56;;ACCEPTED;https://heritagesports.eu/en?t=prematch&sportId=2&countryId=10_2&leagueId=3499_10&eventId=208812531&periodId=m;;;pipeline;Heritage
 17/11 16:56;Club Bigua de Villa Biarritz x Aguada;Liga Uruguaya;Aguada +4.5;1,8;1,694;0,063;21,0;USDC;1,8;37,8;;ACCEPTED;https://heritagesports.eu/en?t=prematch&sportId=2&countryId=10_2&leagueId=3499_10&eventId=208812531&periodId=m;;;pipeline;Heritage
@@ -565,4 +565,4 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 17/11 17:12;Olimpia Milano vs. KK Crvena Zvezda;Europe Euroleague;Olimpia Milano vs. KK Crvena Zvezda · Fora;2,06;1,925;0,0701;39,0;USDC;2,06;80,34;LOSS;COMPLETED;;2511642360;-39,0;pipeline;Magic
 17/11 17:14;Frome Town x Gloucester City;Non League Premier - Southern South;Gloucester City -0.5;2,47;2,302;0,073;3,13;USDC;2,47;7,73;;ACCEPTED;https://heritagesports.eu/en?t=prematch&sportId=5&countryId=68_5&leagueId=14702_68&eventId=208527641&periodId=m;;;pipeline;Heritage
 17/11 17:14;Frome Town x Gloucester City;Non League Premier - Southern South;Gloucester City;2,47;2,291;0,078;41,92;USDC;2,47;103,54;;ACCEPTED;https://heritagesports.eu/en?t=prematch&sportId=5&countryId=68_5&leagueId=14702_68&eventId=208527641&periodId=m;;;pipeline;Heritage
-17/11 17:37;Saski Baskonia vs. Hapoel Tel Aviv BC;Europe Euroleague;Saski Baskonia vs. Hapoel Tel Aviv BC · Casa;2,22;1,985;0,1184;60,0;USDC;2,22;133,2;;ACCEPTED;;2511734929;;pipeline;Magic
+17/11 17:37;Saski Baskonia vs. Hapoel Tel Aviv BC;Europe Euroleague;Saski Baskonia vs. Hapoel Tel Aviv BC · Casa;2,22;1,985;0,1184;60,0;USDC;2,22;133,2;LOSS;COMPLETED;;2511734929;-60,0;pipeline;Magic
