@@ -182,7 +182,6 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 14/11 15:40;(sem par no painel);;None None;;;;20;USDC;2,3;46,0;WIN;COMPLETED;;;26;extrato;Cloudbet
 14/11 15:40;(extrato);;· Mais de;2,3;0;0,0;20,0;USDC;2,3;46,0;WIN;COMPLETED;;;26,0;pipeline;Cloudbet
 14/11 15:40;Texas A&M x Tennessee;;Texas A&M;2,3;0,0;0,0;20,0;USDC;2,3;;PUSH;COMPLETED;;;;executor;Cloudbet
-14/11 21:03;Saint Joseph's Hawks vs. Pennsylvania Quakers;USA NCAA;Saint Joseph's Hawks vs. Pennsylvania Quakers · Casa;2,12;1,92;0,1042;20,0;USDC;2,12;42,4;PUSH;COMPLETED;;2500940559;;pipeline;Magic
 14/11 21:32;Larranaga vs. CA Goes;Uruguay LUB (Liga Uruguaya de Basketball);Larranaga vs. CA Goes · Fora;1,99;1,825;0,0904;20,0;USDC;1,99;39,8;WIN;COMPLETED;;2501034819;21,28;pipeline;Magic
 15/11 00:02;BC Guco Lier x Basics Melsele;Top Division 1;None None;;;;20;USDC;3,8;76,0;LOSS;COMPLETED;;d520b2b3-9205-4679-8451-cf1879e41312;-20;extrato;Cloudbet
 15/11 00:02;BC Guco Lier x Basics Melsele;Top Division 1;BC Guco Lier x Basics Melsele · Vencedor: Basics Melsele;3,8;1,207;2,1483;20,0;USDC;3,8;;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/37270178;;-20,0;executor;Cloudbet
