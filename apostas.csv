@@ -420,10 +420,7 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 16/11 11:02;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Mikel Brown Jr. · Mais de 5.5;1,87;1,741;0,074;29,81;USDC;1,88;56,04;WIN;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284811;7b618d9c-7be0-4f1d-b7ff-50ff09c17bcd;25,9347;executor;Cloudbet
 16/11 11:12;Cleveland Cavaliers x Chicago Bulls;USA · NBA;Jarrett Allen · Mais de 13.5;1,74;1,645;0,058;27,31;USDC;1,74;47,52;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37283995;0e4ae518-ea7c-437e-b3a9-717678eeba74;-27,31;executor;Cloudbet
 16/11 11:19;Brooklyn Nets x Philadelphia 76ers;USA · NBA;Noah Clowney · Mais de 3.5;1,85;1,711;0,081;24,36;USDC;1,84;44,82;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37284811;b5f1a21c-4a1b-437d-bf4c-2eb868996db3;-24,36;executor;Cloudbet
-16/11 16:57;(evento não informado);;;;;;;USDC;;;;ACCEPTED;;sport:693591970;;pipeline;
-16/11 17:48;(evento não informado);;;;;;;USDC;;;;ACCEPTED;;sport:693613780;;pipeline;
 16/11 18:50;(evento não informado);;;;;;2,0;USDC;;;;ACCEPTED;;;;pipeline;
-16/11 18:59;(evento não informado);;;;;;;USDC;;;;ACCEPTED;;;;pipeline;
 16/11 22:05;Boston Celtics vs. Orlando Magic;USA NBA;Boston Celtics vs. Orlando Magic · Casa;2,1;1,965;0,0687;46,58;USDC;2,1;97,82;LOSS;COMPLETED;;2508372127;-5,15;pipeline;Magic
 16/11 22:12;Minnesota Timberwolves vs. Portland Trail Blazers;USA NBA;Minnesota Timberwolves vs. Portland Trail Blazers · Casa;1,98;1,86;0,0645;90,29;USDC;1,98;178,77;WIN;COMPLETED;;2508383480;80,8998;pipeline;Magic
 16/11 23:20;Astros de Jalisco vs. Soles de Mexicali;Mexico Liga Nacional de Baloncesto Profesional (LNBP);Astros de Jalisco vs. Soles de Mexicali · Casa;1,99;1,895;0,0501;6,5;USDC;1,99;12,94;WIN;COMPLETED;;2508583853;6,368;pipeline;Magic
