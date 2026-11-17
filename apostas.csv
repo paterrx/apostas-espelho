@@ -403,6 +403,6 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 16/11 17:48;(sem jogo);;;;;;;USDC;;;;ACCEPTED;;sport:693613780;;pipeline;
 16/11 18:50;(sem jogo);;;;;;2,0;USDC;;;;ACCEPTED;;;;pipeline;
 16/11 18:59;(sem jogo);;;;;;;USDC;;;;ACCEPTED;;;;pipeline;
-16/11 22:05;Boston Celtics vs. Orlando Magic;USA NBA;Boston Celtics vs. Orlando Magic · Casa;2,1;1,965;0,0687;46,58;USDC;2,1;97,82;;ACCEPTED;;2508372127;;pipeline;Magic
+16/11 22:05;Boston Celtics vs. Orlando Magic;USA NBA;Boston Celtics vs. Orlando Magic · Casa;2,1;1,965;0,0687;46,58;USDC;2,1;97,82;LOSS;COMPLETED;;2508372127;-5,15;pipeline;Magic
 16/11 22:12;Minnesota Timberwolves vs. Portland Trail Blazers;USA NBA;Minnesota Timberwolves vs. Portland Trail Blazers · Casa;1,98;1,86;0,0645;90,29;USDC;1,98;178,77;;ACCEPTED;;2508383480;;pipeline;Magic
 16/11 23:20;Astros de Jalisco vs. Soles de Mexicali;Mexico Liga Nacional de Baloncesto Profesional (LNBP);Astros de Jalisco vs. Soles de Mexicali · Casa;1,99;1,895;0,0501;6,5;USDC;1,99;12,94;;ACCEPTED;;2508583853;;pipeline;Magic
