@@ -210,7 +210,7 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 15/11 12:20;Urena x Barquisimeto;Segunda División;Barquisimeto;2,7;2,482;0,088;18,08;USDC;2,7;48,82;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/soccer/venezuela-segunda-division/37277454;70f940bf-1b1b-4cdb-9656-664f6aab80c5;-18,08;extrato;Cloudbet
 15/11 12:22;Urena x Barquisimeto;Segunda División;Urena;2,45;2,821;0,081;13,86;USDC;3;41,58;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/soccer/venezuela-segunda-division/37277454;15d3ee86-7c01-45f8-830a-702b22ed6dcf;-13,86;extrato;Cloudbet
 15/11 15:08;Racing United FC x Tru-Juice FC;Premier League;Tru-Juice FC;2,85;2,67;0,067;12,75;USDC;2,85;36,34;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/soccer/jamaica-premier-league/37266785;7b5d97e6-18f6-4cba-b23f-4b123b734e21;-12,75;extrato;Cloudbet
-15/11 15:35;Phoenix Suns x LA Lakers;USA · NBA;Collin Gillespie · Menos de 9.5;1,88;1,739;0,081;8;USDC;1,86;14,88;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37271651;43d350aa-01e0-4d8b-8639-df01e93cbe1a;-8;extrato;Cloudbet
+15/11 15:35;Phoenix Suns x LA Lakers;USA · NBA;Collin Gillespie · Menos de 9.5;1,88;1,739;0,081;8;USDC;1,86;14,88;LOSS;COMPLETED;;43d350aa-01e0-4d8b-8639-df01e93cbe1a;-8;extrato;Cloudbet
 15/11 15:41;CLE Browns x HOU Texans;;Woody Marks · Menos de 17.5;2,01;;;70,66;USDC;1,95;137,79;;ACCEPTED;;;;executor;Cloudbet
 15/11 15:42;ATL Falcons x Kansas City Chiefs;;Emmett Johnson · Menos de 3.5;2,04;;;48,14;USDC;2,05;98,69;;ACCEPTED;;;;executor;Cloudbet
 15/11 15:42;TEN Titans x JAX Jaguars;;Tony Pollard · Menos de 10.5;1,87;;;51,94;USDC;1,9;98,69;;ACCEPTED;;;;executor;Cloudbet
@@ -256,7 +256,7 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 15/11 18:20;Utah Jazz x San Antonio Spurs;USA · NBA;Julian Champagnie · Menos de 5.5;1,62;1,482;0,093;150,99;USDC;1,62;244,6;WIN;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37269708;c3cbc88f-454a-4485-a51d-c58d75d24c82;93,6138;extrato;Cloudbet
 15/11 18:20;UC San Diego Tritons Women vs. San Francisco Dons Women;USA WNCAA Women;UC San Diego Tritons Women vs. San Francisco Dons Women · Casa;1,96;1,81;0,0829;93,53;USDC;1,96;183,32;LOSS;COMPLETED;;2505167601;-93,53;pipeline;Magic
 15/11 18:21;Arizona Cardinals x Los Angeles Rams;NFL;Zonovan Knight · Mais de 8.5;1,94;1,793;0,082;61,38;USDC;1,94;119,08;PUSH;COMPLETED;https://www.cloudbet.com/pt-br/sports/american-football/usa-nfl/37098194;;;executor;Cloudbet
-15/11 18:22;Phoenix Suns x LA Lakers;USA · NBA;Collin Gillespie · Menos de 9.5;1,88;1,739;0,081;92,63;USDC;1,89;175,07;;ACCEPTED;;;;executor;Cloudbet
+15/11 18:22;Phoenix Suns x LA Lakers;;Collin Gillespie · Menos de 9.5;1,88;;;92,63;USDC;1,89;175,07;;ACCEPTED;;;;executor;Cloudbet
 15/11 18:23;Toronto Raptors x NY Knicks;USA · NBA;Scottie Barnes · Menos de 6.5;2,08;1,91;0,089;77,54;USDC;2,04;158,18;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37270237;d3aefeeb-d6fc-4035-92b3-94892683fc59;-77,54;extrato;Cloudbet
 15/11 18:23;Phoenix Suns x LA Lakers;USA · NBA;Matisse Thybulle · Mais de 6.5;2,06;1,917;0,075;42,1;USDC;2,03;85,46;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37271651;;;executor;Cloudbet
 15/11 18:25;Phoenix Suns x LA Lakers;USA · NBA;Matisse Thybulle · Mais de 2.5;2,4;2,269;0,058;22,36;USDC;2,4;53,66;PUSH;COMPLETED;;;;executor;Cloudbet
@@ -584,7 +584,7 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 17/11 15:28;Switzerland Women vs. Ireland Women;FIBA EuroBasket Women;Switzerland Women vs. Ireland Women · Fora;1,75;1,64;0,0671;60,0;USDC;1,75;105,0;;ACCEPTED;;2511163520;;pipeline;Magic
 17/11 15:29;Maccabi Electra Tel Aviv BC vs. Olympiacos Piraeus BC;Europe Euroleague;Maccabi Electra Tel Aviv BC vs. Olympiacos Piraeus BC · Fora;2,06;1,915;0,0757;60,0;USDC;2,06;123,6;WIN;COMPLETED;;2511145928;83,2117;pipeline;Magic
 17/11 15:40;Jämtland Basket vs. LF Basket (BC Lulea);Sweden Ligan;Jämtland Basket vs. LF Basket (BC Lulea) · Fora;1,97;1,865;0,0563;25,8;USDC;1,97;50,83;;ACCEPTED;;2511238552;;pipeline;Magic
-17/11 15:42;Blois x AS Alsace Gries-Souffel;Pro B;Mais de 177.5;2,46;2,23;0,103;44,0;USDC;2,46;108,24;;ACCEPTED;https://www.3et.com/event/2700291-blois-vs-gries-souffel;;;pipeline;3et
+17/11 15:42;Blois x AS Alsace Gries-Souffel;Pro B;Mais de 177.5;2,46;2,23;0,103;44,0;USDC;2,46;108,24;;ACCEPTED;https://www.3et.com/event/2700291-blois-vs-gries-souffel;52270959;;pipeline;3et
 17/11 15:47;Hopsi Polzela vs. Ilirija;Slovenia Premier A (Telemach League);Hopsi Polzela vs. Ilirija · Fora;2,1;1,88;0,117;3,0;USDC;2,1;6,3;;ACCEPTED;;2511301574;;pipeline;Magic
 17/11 15:51;São Cristóvão e Névis x Países Baixos Caribenhos;CONCACAF Nations League;Países Baixos Caribenhos;3,05;2,788;0,094;15,97;USDC;3,05;48,71;WIN;COMPLETED;https://www.cloudbet.com/pt-br/sports/soccer/international-concacaf-nations-league/37287448;2f4b2734-fe83-4db2-abd9-fc33c45ff356;32,7385;executor;Cloudbet
 17/11 15:51;HC Merano x SG Cortina;Alps Hockey League;SG Cortina +0.5;1,87;1,725;0,084;15,97;USDC;2,7;43,12;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/ice-hockey/international-alps-hockey-league/37267938;cbe32285-7713-4a65-b2d2-bcabe5732be3;;executor;Cloudbet
