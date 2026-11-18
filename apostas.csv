@@ -539,7 +539,7 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 17/11 03:02;San Antonio Spurs x Detroit Pistons;USA · NBA;Devin Vassell · Mais de 3.5;2,25;2,033;0,107;54,97;USDC;2,17;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37298913;;;extrato;Cloudbet;
 17/11 03:02;Toronto Raptors x NY Knicks;USA · NBA;Mikal Bridges · Mais de 2.5;1,89;1,673;0,13;60;USDC;1,89;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37298892;;;extrato;Cloudbet;
 17/11 03:02;(extrato);;Devin Vassell · Mais de 3.5 Rebotes;2,17;2,033;0,107;54,97;USDC;2,17;;;ACCEPTED;;;;pipeline;Cloudbet;
-17/11 03:02;(extrato);;Mikal Bridges · Mais de 2.5 Rebotes;1,89;1,673;0,13;60,0;USDC;1,89;;;ACCEPTED;;;;pipeline;Cloudbet;
+17/11 03:02;(extrato);;Mikal Bridges · Mais de 2.5 Rebotes;1,89;1,673;0,13;60,0;USDC;1,89;113,4;WIN;COMPLETED;;;53,4;pipeline;Cloudbet;
 17/11 03:03;LA Lakers x Charlotte Hornets;USA · NBA;Sion James · Menos de 3.5;2,2;2,013;0,093;60;USDC;2,2;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37298975;;;extrato;Cloudbet;
 17/11 03:03;(extrato);;Sion James · Menos de 3.5 Rebotes;2,2;2,013;0,093;60,0;USDC;2,2;;;ACCEPTED;;;;pipeline;Cloudbet;
 17/11 03:04;LA Lakers x Charlotte Hornets;USA · NBA;Quentin Grimes · Menos de 3.5;1,92;1,798;0,068;60;USDC;1,92;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37298975;;;extrato;Cloudbet;
@@ -756,3 +756,4 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 18/11 00:06;Denver Nuggets x Boston Celtics;USA · NBA;Cameron Johnson · Mais de 1.5;1,85;1,73;0,069;22,34;USDC;1,85;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37313912;aefcaf6f-e6f2-4da3-b32d-8931cf459c79;;executor;Cloudbet;
 18/11 00:06;Denver Nuggets x Boston Celtics;USA · NBA;Nikola Jokic · Menos de 1.5;1,67;1,586;0,053;22,34;USDC;1,67;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37313912;4566858a-6316-4dd6-abb9-3c2b3b7fc6a9;;executor;Cloudbet;
 18/11 00:18;Denver Nuggets x Boston Celtics;USA · NBA;Cameron Johnson · Mais de 3.5;2,11;2,005;0,052;41,37;USDC;2,11;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37313912;e3e1d77a-d54d-4d1f-b63b-7d99e8ca01c4;;executor;Cloudbet;
+18/11 00:20;Orlando Magic x Philadelphia 76ers;USA · NBA;Anthony Black · Menos de 14.5;1,97;1,845;0,068;60,0;USDC;1,92;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37313387;4d01ed78-d766-4e65-a0b8-14f04a5f39af;;executor;Cloudbet;
