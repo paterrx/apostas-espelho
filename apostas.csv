@@ -749,3 +749,5 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 19/11 07:53;San Antonio Spurs x Los Angeles Clippers;USA · NBA;Stephon Castle · Menos de 29.5;1,87;1,675;0,116;60,0;USDC;1,87;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37330197;5ba91fca-46bd-43fd-a927-09b6d44b2365;;executor;Cloudbet;
 19/11 07:54;Milwaukee Bucks x Portland Trail Blazers;USA · NBA;Kyle Kuzma · Menos de 15.5;1,93;1,775;0,087;60,0;USDC;1,93;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37331538;120cbd51-7f69-418e-a5b4-834ab612b536;;executor;Cloudbet;
 19/11 07:54;Minnesota Timberwolves x NY Knicks;USA · NBA;Rudy Gobert · Mais de 1.5;1,99;1,858;0,071;60,0;USDC;1,98;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37330622;798ff473-eca4-4c20-aaf1-6905f85e176a;;executor;Cloudbet;
+19/11 07:55;(evento não informado);;;;;;48,45;USDC;;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37331538;;;pipeline;;
+19/11 07:55;Milwaukee Bucks x Portland Trail Blazers;;Tyler Herro · Menos de 3.5;2,2;;;48,45;USDC;2,17;;;ACCEPTED;;93b1d395-b69f-4427-a700-51782d000c95;;executor;Cloudbet;
