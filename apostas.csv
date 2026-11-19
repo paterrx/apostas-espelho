@@ -1,6 +1,6 @@
 Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado;Status;Link;ID;Lucro;Fonte;Casa;Conferido
 11/11 00:41;(sem par no painel);;None None;;;;10;USDC;1,91;19,1;LOSS;COMPLETED;;ae3893f9-2f69-4c88-8309-aab26184442a;-10;extrato;Cloudbet;
-11/11 00:48;Milwaukee Bucks x Portland Trail Blazers;USA · NBA;Deni Avdija · Menos de 7.5;1,76;1,643;0,071;20;USDC;1,88;37,6;WIN;COMPLETED;https://stake.com/sports/basketball/usa/nba/1795136400000-milwaukee-bucks-portland-trail-blazers;004a54c8-cce4-4677-80ef-5cc970fd370f;17,6;extrato;Cloudbet;
+11/11 00:48;Milwaukee Bucks x Portland Trail Blazers;USA · NBA;Deni Avdija · Menos de 7.5;1,78;1,637;0,087;20;USDC;1,88;37,6;WIN;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37331538;004a54c8-cce4-4677-80ef-5cc970fd370f;17,6;extrato;Cloudbet;
 11/11 00:48;(sem par no painel);;Fred VanVleet · Mais de 2.5 Rebotes;;;;20;USDC;1,84;36,8;LOSS;COMPLETED;;af44e2de-c7c8-4c6d-8dc9-f6cd3b3cfb7b;-20;extrato;Cloudbet;
 11/11 00:48;Oklahoma City Thunder x Atlanta Hawks;USA · NBA;Kenrich Williams · Mais de 1.5;2,35;2,124;0,106;20;USDC;2,3;46,0;LOSS;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37314324;0774bcfa-dcae-4791-ab29-e8076a253d60;-20;extrato;Cloudbet;
 11/11 00:48;(sem par no painel);;Amen Thompson · Menos de 3.5 Assistências;;;;20;USDC;1,93;38,6;LOSS;COMPLETED;;53481586-60fa-4c2a-8400-b95c2bb5f35f;-20;extrato;Cloudbet;
@@ -124,7 +124,7 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 11/11 21:31;(sem par no painel);;Luke Kornet · Menos de 5.5 Rebotes;;;;2;USDC;1,88;3,76;WIN;COMPLETED;;85b5f5cc-e2dd-4ac3-8fd3-f708e97171ee;1,76;extrato;Cloudbet;
 11/11 22:36;(sem par no painel);;Donovan Clingan · Menos de 11.5 Rebotes;;;;8;USDC;1,93;15,44;LOSS;COMPLETED;;b3409065-7ad5-432c-9770-7e53dc04d4ec;-8;extrato;Cloudbet;
 11/11 22:36;(sem par no painel);;Darryn Peterson · Mais de 3.5 Assistências;;;;8;USDC;1,69;13,52;WIN;COMPLETED;;1d1f9dce-9609-4e82-b7f0-5ce1063835d8;5,52;extrato;Cloudbet;
-11/11 23:41;Milwaukee Bucks x Portland Trail Blazers;USA · NBA;Deni Avdija · Menos de 7.5;1,76;1,643;0,071;8;USDC;1,85;14,8;WIN;COMPLETED;https://stake.com/sports/basketball/usa/nba/1795136400000-milwaukee-bucks-portland-trail-blazers;88cf4145-4cf1-47ab-8a37-8111001f0ab5;6,8;extrato;Cloudbet;
+11/11 23:41;Milwaukee Bucks x Portland Trail Blazers;USA · NBA;Deni Avdija · Menos de 7.5;1,78;1,637;0,087;8;USDC;1,85;14,8;WIN;COMPLETED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37331538;88cf4145-4cf1-47ab-8a37-8111001f0ab5;6,8;extrato;Cloudbet;
 12/11 17:54;(sem par no painel);;Naz Reid · Mais de 2.5 Assistências;;;;8;USDC;2,17;17,36;WIN;COMPLETED;;2699b357-a2e9-4b0b-87d4-6d5696a4886e;9,36;extrato;Cloudbet;
 12/11 17:54;(sem par no painel);;John Collins · Menos de 0.5 Roubos de bola;;;;8;USDC;2,35;18,8;WIN;COMPLETED;;2b55dc39-f458-4ee9-9754-f4095bae9397;10,8;extrato;Cloudbet;
 12/11 17:54;(sem par no painel);;Daniel Gafford · Mais de 7.5 Pontos;;;;8;USDC;1,87;14,96;LOSS;COMPLETED;;fcc46dd9-df1a-48f9-a368-b59982b0cdff;-8;extrato;Cloudbet;
@@ -766,3 +766,4 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 19/11 12:19;San Antonio Spurs x Los Angeles Clippers;USA · NBA;Darius Garland · Menos de 9.5;2,0;1,823;0,097;1,03;USDC;1,97;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37330197;45bfc844-167f-46c7-b8a1-1b196b6f15fc;;extrato;Cloudbet;
 19/11 12:19;Milwaukee Bucks x Portland Trail Blazers;USA · NBA;Brayden Burries · Menos de 0.5;2,3;2,112;0,089;40,01;USDC;2,25;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37331538;87df1f78-2859-4ffc-b86a-cb7730c72453;;extrato;Cloudbet;
 19/11 12:22;Memphis Grizzlies x Golden State Warriors;USA · NBA;Brandin Podziemski · Menos de 21.5;1,93;1,792;0,077;60;USDC;1,93;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37331658;9159af61-635a-49c0-8251-d201459dbfe5;;extrato;Cloudbet;
+19/11 14:27;Milwaukee Bucks x Portland Trail Blazers;USA · NBA;Deni Avdija · Menos de 7.5;1,78;1,637;0,087;60,0;USDC;1,77;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/basketball/usa-nba/37331538;bb37272d-cd2e-4c26-a55a-83da6467a6d8;;executor;Cloudbet;
