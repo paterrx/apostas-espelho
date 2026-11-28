@@ -597,3 +597,5 @@ Data;Jogo;Liga;Aposta;Odd;Odd justa;EV;Stake;Moeda;Odd cravada;Retorno;Resultado
 27/11 18:26;Vannes x Concarneau;Coupe de France;Vannes;4,55;3,891;0,169;10;USDC;4,15;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/soccer/france-coupe-de-france/37457401;;;extrato;Cloudbet;
 27/11 18:26;Vannes x Concarneau;Coupe de France;Vannes;4,55;3,891;0,169;10,0;USDC;4,55;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/soccer/france-coupe-de-france/37457401;;;pipeline;Cloudbet;
 27/11 18:26;Vannes x Concarneau;Coupe de France;Vannes;4,55;3,891;0,169;14,04;USDC;4,15;;;ACCEPTED;https://www.cloudbet.com/pt-br/sports/soccer/france-coupe-de-france/37457401;561388fb-f9e5-4a3e-86d8-176dc00b714e;;executor;Cloudbet;
+27/11 20:59;Feurs x Annecy;Coupe de France;Feurs -0.25;4,34;3,506;0,2379;11,0;USDC;4,34;;;ACCEPTED;https://heritagesports.eu/en?t=prematch&sportId=5&countryId=7_5&leagueId=179_7&eventId=210111641&periodId=m;;;pipeline;Heritage;
+27/11 20:59;Feurs x Annecy;Coupe de France;Feurs 0;3,786;3,04;0,245;14,0;USDC;3,786;;;ACCEPTED;https://heritagesports.eu/en?t=prematch&sportId=5&countryId=7_5&leagueId=179_7&eventId=210111641&periodId=m;;;pipeline;Heritage;
